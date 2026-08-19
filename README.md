@@ -1,59 +1,46 @@
 # Shadowrocket GeoGaGa
 
-Автоматически обновляемые rule-set для Shadowrocket непосредственно из ветки `lists` репозитория `bratishkadrugoimamysynishka/geogaga-client-flavor`.
+Автоматически обновляемые rule-set для Shadowrocket напрямую из всей ветки `lists` исходного репозитория `bratishkadrugoimamysynishka/geogaga-client-flavor`.
 
 ## Источник
 
-Используется именно `Client-Flavor-geosite` и `Client-Flavor-geoip`, а не RunetFreedom или другие сторонние наборы.
+Репозиторий-источник не ограничивается RunetFreedom или одним Client-Flavor. Workflow клонирует всю ветку `lists` и обрабатывает все каталоги, оканчивающиеся на `-geosite` и `-geoip`.
 
-В исходном репозитории есть три категории:
+Например, в исходной ветке есть `Client-Flavor-geosite`, `Client-Flavor-geoip`, `Loyalsoldier-*`, `b4-geoip`, `roscomvpn-*`, `runetfreedom-*` и другие наборы. citehttps://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor/tree/lists
 
-- `GEOGAGA-DIRECT`
-- `GEOGAGA-PROXY`
-- `GEOGAGA-BLOCK`
+## Структура
 
-Для geosite исходные записи `domain:`, `full:`, `keyword:` и `regex:` преобразуются в соответствующие правила Shadowrocket. Для geoip IPv4 преобразуется в `IP-CIDR`, IPv6 — в `IP-CIDR6`.
+Каталоги источника сохраняются один в один внутри `rules/`, а каждое `.lst` преобразуется в `.list`.
 
-## Готовые rule-set
-
-Geosite:
-
-- `rules/geosite/GEOGAGA-DIRECT.list`
-- `rules/geosite/GEOGAGA-PROXY.list`
-- `rules/geosite/GEOGAGA-BLOCK.list`
-
-GeoIP:
-
-- `rules/geoip/GEOGAGA-DIRECT.list`
-- `rules/geoip/GEOGAGA-PROXY.list`
-- `rules/geoip/GEOGAGA-BLOCK.list`
-
-## Raw URL
+Например:
 
 ```text
-https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-DIRECT.list
-https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-PROXY.list
-https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-BLOCK.list
+Источник:
+Client-Flavor-geosite/GEOGAGA-PROXY.lst
 
-https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-DIRECT.list
-https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-PROXY.list
-https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-BLOCK.list
+Результат:
+rules/Client-Flavor-geosite/GEOGAGA-PROXY.list
 ```
 
-## Shadowrocket
+И аналогично для всех остальных источников и файлов.
+
+Для geosite поддерживаются `domain:`, `full:`, `keyword:` и `regex:`. Для geoip IPv4 преобразуется в `IP-CIDR`, IPv6 — в `IP-CIDR6`.
+
+## Использование в Shadowrocket
+
+Любой сгенерированный `.list` можно подключать как удалённый `RULE-SET`. Например:
 
 ```ini
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-BLOCK.list,REJECT
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-DIRECT.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-PROXY.list,PROXY
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-BLOCK.list,REJECT
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-DIRECT.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-PROXY.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/Client-Flavor-geosite/GEOGAGA-BLOCK.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/Client-Flavor-geosite/GEOGAGA-DIRECT.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/Client-Flavor-geosite/GEOGAGA-PROXY.list,PROXY
 ```
 
-`PROXY` замени на название своей политики в Shadowrocket, если оно отличается.
+`PROXY` замени на название своей политики в Shadowrocket.
+
+Полный список актуальных наборов и количества правил находится в `rules/meta.json`.
 
 ## Обновление
 
-GitHub Actions запускает сборку при изменениях в репозитории и автоматически каждые 6 часов. На каждом запуске берётся свежая ветка `lists`, а готовые rule-set полностью пересобираются.
+GitHub Actions клонирует свежую ветку `lists`, полностью пересобирает все исходные rule-set и публикует их в этом репозитории каждые 6 часов. Ручной запуск также доступен через Actions.
