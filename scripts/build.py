@@ -2,49 +2,12 @@
 import ipaddress
 import json
 import shutil
-import urllib.request
 from pathlib import Path
 
 SOURCE_REPO = "bratishkadrugoimamysynishka/geogaga-client-flavor"
 SOURCE_REF = "lists"
-API_ROOT = f"https://api.github.com/repos/{SOURCE_REPO}/contents"
-RAW_ROOT = f"https://raw.githubusercontent.com/{SOURCE_REPO}/{SOURCE_REF}"
+SOURCE_DIR = Path("/tmp/geogaga-source")
 OUT = Path("rules")
-
-
-def get_json(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "shadowrocket-geogaga"})
-    with urllib.request.urlopen(req, timeout=90) as response:
-        return json.load(response)
-
-
-def list_dir(path=""):
-    suffix = f"/{path}" if path else ""
-    return get_json(f"{API_ROOT}{suffix}?ref={SOURCE_REF}")
-
-
-def raw(path):
-    req = urllib.request.Request(f"{RAW_ROOT}/{path}", headers={"User-Agent": "shadowrocket-geogaga"})
-    with urllib.request.urlopen(req, timeout=90) as response:
-        return response.read().decode("utf-8", errors="replace")
-
-
-def top_level_sources():
-    sources = []
-    for item in list_dir():
-        if item["type"] == "dir" and (item["name"].endswith("-geosite") or item["name"].endswith("-geoip")):
-            sources.append(item["name"])
-    return sorted(sources)
-
-
-def collect_lst_files(directory):
-    result = []
-    for item in list_dir(directory):
-        if item["type"] == "file" and item["name"].lower().endswith(".lst"):
-            result.append(item["path"])
-        elif item["type"] == "dir":
-            result.extend(collect_lst_files(item["path"]))
-    return sorted(result)
 
 
 def convert_geosite(text):
@@ -107,6 +70,9 @@ def write_rules(path, rules, source_path):
     path.write_text(header + "\n".join(rules) + "\n", encoding="utf-8")
 
 
+if not SOURCE_DIR.exists():
+    raise SystemExit("Source repository is missing: /tmp/geogaga-source")
+
 if OUT.exists():
     shutil.rmtree(OUT)
 OUT.mkdir(parents=True)
@@ -117,26 +83,29 @@ meta = {
     "sources": {},
 }
 
-for source in top_level_sources():
-    is_geosite = source.endswith("-geosite")
-    source_files = collect_lst_files(source)
-    meta["sources"][source] = {"files": 0, "rules": 0}
+for source_dir in sorted(SOURCE_DIR.iterdir()):
+    if not source_dir.is_dir():
+        continue
+    if not (source_dir.name.endswith("-geosite") or source_dir.name.endswith("-geoip")):
+        continue
 
-    for source_path in source_files:
-        text = raw(source_path)
+    is_geosite = source_dir.name.endswith("-geosite")
+    source_files = sorted(source_dir.rglob("*.lst"))
+    meta["sources"][source_dir.name] = {"files": 0, "rules": 0}
+
+    for source_file in source_files:
+        text = source_file.read_text(encoding="utf-8", errors="replace")
         rules = convert_geosite(text) if is_geosite else convert_geoip(text)
 
-        relative = source_path[len(source) + 1:]
-        output_name = str(Path(relative).with_suffix(".list"))
-        output_path = OUT / source / output_name
-        write_rules(output_path, rules, source_path)
+        relative = source_file.relative_to(SOURCE_DIR)
+        output_path = OUT / relative.with_suffix(".list")
+        write_rules(output_path, rules, str(relative).replace("\\", "/"))
 
-        meta["sources"][source]["files"] += 1
-        meta["sources"][source]["rules"] += len(rules)
+        meta["sources"][source_dir.name]["files"] += 1
+        meta["sources"][source_dir.name]["rules"] += len(rules)
 
 Path("rules/meta.json").write_text(
     json.dumps(meta, indent=2, ensure_ascii=False) + "\n",
     encoding="utf-8",
 )
-
 print(json.dumps(meta, indent=2, ensure_ascii=False))
