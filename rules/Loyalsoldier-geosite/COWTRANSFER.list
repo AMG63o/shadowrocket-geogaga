@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/COWTRANSFER.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,c-t.work
+DOMAIN-SUFFIX,cowcs.com
+DOMAIN-SUFFIX,cowtransfer.com

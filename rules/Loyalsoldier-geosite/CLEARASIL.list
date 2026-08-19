@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CLEARASIL.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,clearasil.us
+DOMAIN-SUFFIX,clearasil.cn
+DOMAIN-SUFFIX,clearasil.com.cn

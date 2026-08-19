@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/NETFLAV.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,netflav1.com
+DOMAIN-SUFFIX,netflav5.com

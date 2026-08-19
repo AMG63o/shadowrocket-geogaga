@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/AP.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ap.org
+DOMAIN-SUFFIX,apnews.com

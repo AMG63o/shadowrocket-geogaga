@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/TEX.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ctan.org
+DOMAIN-SUFFIX,latex-project.org
+DOMAIN-SUFFIX,miktex.org
+DOMAIN-SUFFIX,tug.org

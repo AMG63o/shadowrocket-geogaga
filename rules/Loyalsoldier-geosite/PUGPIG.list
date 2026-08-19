@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/PUGPIG.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,pugpig-dev.com
+DOMAIN-SUFFIX,pugpig-stage.com
+DOMAIN-SUFFIX,pugpig.com

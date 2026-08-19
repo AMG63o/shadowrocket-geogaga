@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/BAMTECH.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,bamtech.net
+DOMAIN-SUFFIX,dmed.technology

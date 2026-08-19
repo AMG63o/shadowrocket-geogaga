@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/FONTAWESOME.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,fortawesome.com

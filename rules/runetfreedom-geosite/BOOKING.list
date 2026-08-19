@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/BOOKING.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,bstatic.com
+DOMAIN-SUFFIX,booking.cn

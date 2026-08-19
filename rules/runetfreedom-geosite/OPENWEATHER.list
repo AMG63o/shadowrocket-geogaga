@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/OPENWEATHER.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,openweathermap.org
+DOMAIN-SUFFIX,openweather.co.uk

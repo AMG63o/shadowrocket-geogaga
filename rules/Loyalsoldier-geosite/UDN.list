@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/UDN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,udndata.com
+DOMAIN-SUFFIX,udnfunlife.com
+DOMAIN-SUFFIX,udn.com.tw

@@ -1,0 +1,11 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/GISMETEO.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,gismeteo.by
+DOMAIN-SUFFIX,gismeteo.com
+DOMAIN-SUFFIX,gismeteo.net
+DOMAIN-SUFFIX,gismeteo.ru
+DOMAIN-SUFFIX,gismeteo.st
+DOMAIN-SUFFIX,meteofor.com
+DOMAIN-SUFFIX,meteofor.st

@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/HINET.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,xuite.net
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,chtf.org.tw
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw

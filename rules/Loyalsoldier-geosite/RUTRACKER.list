@@ -1,0 +1,13 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/RUTRACKER.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,maintracker.org
+DOMAIN-SUFFIX,rutracker.cc
+DOMAIN-SUFFIX,rutracker.cr
+DOMAIN-SUFFIX,rutracker.me
+DOMAIN-SUFFIX,rutracker.net
+DOMAIN-SUFFIX,rutracker.nl
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.wiki
+DOMAIN-SUFFIX,rutrk.org

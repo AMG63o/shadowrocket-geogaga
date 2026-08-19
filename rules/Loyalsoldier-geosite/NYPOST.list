@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/NYPOST.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nypost.com
+DOMAIN-SUFFIX,nypost.help
+DOMAIN-SUFFIX,nypostreprints.com

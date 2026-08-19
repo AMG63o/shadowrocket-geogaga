@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/GUOKR.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,guokr.com
+DOMAIN-SUFFIX,guokr.net

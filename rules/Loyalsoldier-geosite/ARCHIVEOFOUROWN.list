@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/ARCHIVEOFOUROWN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ao3.org
+DOMAIN-SUFFIX,archiveofourown.org
+DOMAIN-SUFFIX,archiveofourown.com
+DOMAIN-SUFFIX,archiveofourown.net

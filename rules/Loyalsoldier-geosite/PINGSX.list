@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/PINGSX.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,public-us-pingsx.api.clonoth.com
+DOMAIN-SUFFIX,ping.sx

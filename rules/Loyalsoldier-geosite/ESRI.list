@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/ESRI.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,arcgis.com
+DOMAIN-SUFFIX,arcgisonline.com
+DOMAIN-SUFFIX,esri.com

@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CK101.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ck101.com
+DOMAIN-SUFFIX,ckcdn.com
+DOMAIN-SUFFIX,ckck.fun

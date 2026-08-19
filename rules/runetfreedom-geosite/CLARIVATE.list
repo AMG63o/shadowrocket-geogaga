@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/CLARIVATE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,newisiknowledge.com
+DOMAIN-SUFFIX,isiknowledge.com

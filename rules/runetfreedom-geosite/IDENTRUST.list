@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/IDENTRUST.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,identrust.net
+DOMAIN-SUFFIX,identrust.co.uk

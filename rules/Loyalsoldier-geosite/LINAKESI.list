@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/LINAKESI.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,linakesi.com
+DOMAIN-SUFFIX,linakesi.cn
+DOMAIN-SUFFIX,lazycat.cloud
+DOMAIN-SUFFIX,heiyu.space

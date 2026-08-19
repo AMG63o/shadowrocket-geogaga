@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/HABR.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org

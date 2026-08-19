@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/FTV.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ftv.com.tw
+DOMAIN-SUFFIX,ftvnews.com.tw

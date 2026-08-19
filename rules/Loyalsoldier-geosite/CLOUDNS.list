@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CLOUDNS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,cloudns.nz
+DOMAIN-SUFFIX,cloudns.ph

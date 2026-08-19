@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/ESCAPEFROMTARKOV.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,tarkov.com
+DOMAIN-SUFFIX,eft-store.com
+DOMAIN-SUFFIX,escapefromtarkov.com

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/MUSIXMATCH.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,musixmatch.com
+DOMAIN-SUFFIX,mxmcdn.net

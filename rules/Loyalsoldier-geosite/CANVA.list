@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CANVA.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,affinity.studio
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,canvastatus.com
+DOMAIN-SUFFIX,affinity.api.serifservices.com
+DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
+DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com

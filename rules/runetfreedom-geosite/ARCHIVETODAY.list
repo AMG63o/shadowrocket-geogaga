@@ -1,0 +1,11 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/ARCHIVETODAY.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,archive.today
+DOMAIN-SUFFIX,archive.fo
+DOMAIN-SUFFIX,archive.is
+DOMAIN-SUFFIX,archive.li
+DOMAIN-SUFFIX,archive.md
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.vn

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/TRANSLATEWIKI.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,translatewiki.net
+DOMAIN-SUFFIX,translatewiki.org

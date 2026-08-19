@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/DEBIAN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,dotdeb.org

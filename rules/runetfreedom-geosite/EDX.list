@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/EDX.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,edx.org
+DOMAIN-SUFFIX,edx-cdn.org

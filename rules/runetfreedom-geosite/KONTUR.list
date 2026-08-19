@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/KONTUR.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN-SUFFIX,kontur.host
+DOMAIN-SUFFIX,kontur-inc.com
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/KHANACADEMY.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,khanacademy.org
+DOMAIN-SUFFIX,kastatic.org

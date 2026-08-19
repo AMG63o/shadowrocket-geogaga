@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/PHOENIX.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,fengcx.com
+DOMAIN-SUFFIX,ifeng.com
+DOMAIN-SUFFIX,ifengimg.com
+DOMAIN-SUFFIX,phoenixcenter.cn
+DOMAIN-SUFFIX,fengedu.com
+DOMAIN-SUFFIX,ifengweekly.com

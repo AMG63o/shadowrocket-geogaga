@@ -1,20 +1,42 @@
 {
   "source": "bratishkadrugoimamysynishka/geogaga-client-flavor",
   "ref": "lists",
-  "geosite_source": "Client-Flavor-geosite",
-  "geoip_source": "Client-Flavor-geoip",
-  "categories": {
-    "GEOGAGA-DIRECT": {
-      "geosite_rules": 1636,
-      "geoip_rules": 57338
+  "sources": {
+    "Client-Flavor-geoip": {
+      "files": 3,
+      "rules": 85427
     },
-    "GEOGAGA-PROXY": {
-      "geosite_rules": 74822,
-      "geoip_rules": 28089
+    "Client-Flavor-geosite": {
+      "files": 3,
+      "rules": 77290
     },
-    "GEOGAGA-BLOCK": {
-      "geosite_rules": 832,
-      "geoip_rules": 0
+    "Loyalsoldier-geoip": {
+      "files": 260,
+      "rules": 1093363
+    },
+    "Loyalsoldier-geosite": {
+      "files": 1535,
+      "rules": 509200
+    },
+    "b4-geoip": {
+      "files": 309,
+      "rules": 1259076
+    },
+    "roscomvpn-geoip": {
+      "files": 3,
+      "rules": 42087
+    },
+    "roscomvpn-geosite": {
+      "files": 23,
+      "rules": 3107
+    },
+    "runetfreedom-geoip": {
+      "files": 266,
+      "rules": 1238098
+    },
+    "runetfreedom-geosite": {
+      "files": 1535,
+      "rules": 3125176
     }
   }
 }

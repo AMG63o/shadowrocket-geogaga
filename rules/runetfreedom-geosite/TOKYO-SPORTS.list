@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/TOKYO-SPORTS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,tospo-keiba.jp
+DOMAIN-SUFFIX,tokyo-sports.co.jp

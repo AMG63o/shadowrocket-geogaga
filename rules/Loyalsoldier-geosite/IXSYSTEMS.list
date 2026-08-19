@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/IXSYSTEMS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ixsystems.com
+DOMAIN-SUFFIX,truenas.com

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/DRIBBBLE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,drbl.in
+DOMAIN-SUFFIX,dribbble.com

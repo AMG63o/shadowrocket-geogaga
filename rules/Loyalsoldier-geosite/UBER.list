@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/UBER.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,uber-assets.com
+DOMAIN-SUFFIX,uber.com
+DOMAIN-SUFFIX,ubereats.com

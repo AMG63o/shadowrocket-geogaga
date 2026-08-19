@@ -1,0 +1,12 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/HONOR.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,hihonor.cn
+DOMAIN-SUFFIX,hihonor.com
+DOMAIN-SUFFIX,hihonorcdn.com
+DOMAIN-SUFFIX,hihonorcloud.com
+DOMAIN-SUFFIX,honor.cn
+DOMAIN-SUFFIX,honor.com
+DOMAIN-SUFFIX,honorfile.com
+DOMAIN-SUFFIX,honor.com.cn

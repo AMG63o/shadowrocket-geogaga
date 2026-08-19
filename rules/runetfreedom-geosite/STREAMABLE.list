@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/STREAMABLE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,embed-cdn.com
+DOMAIN-SUFFIX,streamable.com

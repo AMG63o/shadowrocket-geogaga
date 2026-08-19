@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/NIKKAN-GENDAI.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,gendai.net
+DOMAIN-SUFFIX,nikkan-gendai.com

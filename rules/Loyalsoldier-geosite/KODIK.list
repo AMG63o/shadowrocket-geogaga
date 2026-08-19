@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/KODIK.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,kodik-storage.com
+DOMAIN-SUFFIX,kodik.biz
+DOMAIN-SUFFIX,kodik.cc
+DOMAIN-SUFFIX,kodik.info
+DOMAIN-SUFFIX,kodikplayer.com

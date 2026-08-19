@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/DERIBIT.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,deribit.cdn.prismic.io
+DOMAIN-SUFFIX,deribit.com

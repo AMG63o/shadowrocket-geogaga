@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/WISE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wise.com

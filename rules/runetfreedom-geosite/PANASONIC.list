@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/PANASONIC.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,panasonic
+DOMAIN-SUFFIX,panasonic.com
+DOMAIN-SUFFIX,panasonic.jp
+DOMAIN-SUFFIX,technics.com
+DOMAIN-SUFFIX,panasonic.cn

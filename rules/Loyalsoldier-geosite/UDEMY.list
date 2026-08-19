@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/UDEMY.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,udemy.com
+DOMAIN-SUFFIX,udemycdn.com

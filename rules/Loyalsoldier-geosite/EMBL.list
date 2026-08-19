@@ -1,0 +1,11 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/EMBL.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,embl-hamburg.de
+DOMAIN-SUFFIX,embl.de
+DOMAIN-SUFFIX,embl.fr
+DOMAIN-SUFFIX,embl.it
+DOMAIN-SUFFIX,embl.org
+DOMAIN-SUFFIX,emblstatic.net
+DOMAIN-SUFFIX,ebi.ac.uk

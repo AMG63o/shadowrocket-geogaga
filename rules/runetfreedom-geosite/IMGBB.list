@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/IMGBB.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ibb.co
+DOMAIN-SUFFIX,imgbb.com
+DOMAIN-SUFFIX,simgbb.com

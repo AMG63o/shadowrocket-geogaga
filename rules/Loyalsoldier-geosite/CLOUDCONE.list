@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CLOUDCONE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,clco.cc
+DOMAIN-SUFFIX,cloudc.one
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,cloudcone.net

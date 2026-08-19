@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/SECOM.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,secomtrust.net
+DOMAIN-SUFFIX,secom.co.jp
+DOMAIN-SUFFIX,managedpki.ne.jp

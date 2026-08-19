@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/COSTCO.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,costco-static.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,costcobusinessdelivery.com

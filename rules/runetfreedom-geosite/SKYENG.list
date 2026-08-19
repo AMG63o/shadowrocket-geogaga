@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/SKYENG.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,sky.pro
+DOMAIN-SUFFIX,skyeng.ru

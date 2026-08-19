@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/PAOFUYUN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,paofu.cloud
+DOMAIN-SUFFIX,paofuyun.me

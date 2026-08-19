@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/DIGITALOCEAN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitalocean-ui.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,do.co
+DOMAIN-SUFFIX,nginxconfig.io
+DOMAIN-SUFFIX,ondigitalocean.com

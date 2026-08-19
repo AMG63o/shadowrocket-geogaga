@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/KUBERNETES.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,k8s.io

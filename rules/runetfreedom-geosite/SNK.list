@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/SNK.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,snk-corp.info
+DOMAIN-SUFFIX,snkplaymore.info
+DOMAIN-SUFFIX,snk-corp.co.jp

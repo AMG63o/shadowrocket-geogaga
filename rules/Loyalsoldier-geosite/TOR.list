@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/TOR.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,exit
+DOMAIN-SUFFIX,onion
+DOMAIN-SUFFIX,tor

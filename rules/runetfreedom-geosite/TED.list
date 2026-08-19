@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/TED.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ted.com
+DOMAIN-SUFFIX,tedcdn.com

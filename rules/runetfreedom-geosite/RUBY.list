@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/RUBY.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ruby-lang.org
+DOMAIN-SUFFIX,rubygems.org

@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/LOUISVUITTON.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,louisvuitton.com
+DOMAIN-SUFFIX,louisvuitton.cn
+DOMAIN-SUFFIX,lvcampaign.com
+DOMAIN,tp.louisvuitton.com

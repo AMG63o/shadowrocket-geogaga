@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/SPACESHIP.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,spaceship.com
+DOMAIN-SUFFIX,spacemail.com

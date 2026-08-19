@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/GITEE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/HUBBLEPHONE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,hubblephone.com
+DOMAIN-SUFFIX,tsi.ai

@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/NIKKEI.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nikkei.com
+DOMAIN-SUFFIX,nikkei.jp
+DOMAIN-SUFFIX,nikkei4946.com
+DOMAIN-SUFFIX,nikkei-cnbc.co.jp
+DOMAIN-SUFFIX,nikkei.co.jp
+DOMAIN-SUFFIX,nikkeibp.co.jp

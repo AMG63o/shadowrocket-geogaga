@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/PERL.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,perl.org
+DOMAIN-SUFFIX,cpan.org
+DOMAIN-SUFFIX,metacpan.org
+DOMAIN-SUFFIX,modperl.pl
+DOMAIN-SUFFIX,perl.apache.org

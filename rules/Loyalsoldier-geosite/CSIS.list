@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CSIS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,csis-prod.s3.amazonaws.com
+DOMAIN-SUFFIX,csis.org

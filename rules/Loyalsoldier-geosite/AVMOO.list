@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/AVMOO.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,avmoo.click
+DOMAIN-SUFFIX,avmoo.com
+DOMAIN-SUFFIX,tellme.pw

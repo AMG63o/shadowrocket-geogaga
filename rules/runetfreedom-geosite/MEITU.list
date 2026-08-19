@@ -1,0 +1,17 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/MEITU.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,meitu.com
+DOMAIN-SUFFIX,meitudata.com
+DOMAIN-SUFFIX,meitustat.com
+DOMAIN-SUFFIX,designkit.cn
+DOMAIN-SUFFIX,kaipai.com
+DOMAIN-SUFFIX,meipai.com
+DOMAIN-SUFFIX,meituxiuxiu.com
+DOMAIN-SUFFIX,meiyan.com
+DOMAIN-SUFFIX,miraclevision.com
+DOMAIN-SUFFIX,roboneo.com
+DOMAIN-SUFFIX,whee.com
+DOMAIN-SUFFIX,wink.cn
+DOMAIN-SUFFIX,zcool.com.cn

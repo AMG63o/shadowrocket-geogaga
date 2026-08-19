@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/SURFLITE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,surflite.co
+DOMAIN-SUFFIX,surflite.net

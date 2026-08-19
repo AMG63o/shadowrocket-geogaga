@@ -1,0 +1,12 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/SB.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,dns.sb
+DOMAIN-SUFFIX,ip.gs
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,sb.sb
+DOMAIN-SUFFIX,sm.ms
+DOMAIN-SUFFIX,u.nu
+DOMAIN-SUFFIX,www.sb

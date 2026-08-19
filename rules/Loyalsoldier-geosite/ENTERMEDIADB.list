@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/ENTERMEDIADB.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,entermediadb.net
+DOMAIN-SUFFIX,entermediadb.org

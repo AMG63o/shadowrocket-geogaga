@@ -1,0 +1,21 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/KINOPUB.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,cdn2cdn.com
+DOMAIN-SUFFIX,support-kp.com
+DOMAIN-SUFFIX,kinopub.online
+DOMAIN-SUFFIX,kpdl.link
+DOMAIN-SUFFIX,smarttvcdn.online
+DOMAIN-SUFFIX,gfw.ovh
+DOMAIN-SUFFIX,kino.watch
+DOMAIN-SUFFIX,tsx.ovh
+DOMAIN-SUFFIX,ahc.ovh
+DOMAIN-SUFFIX,pushbr.com
+DOMAIN-SUFFIX,mos-gorsud.co
+DOMAIN-SUFFIX,cdn-service.space
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,cdn2site.com
+DOMAIN-SUFFIX,m.alador.space
+DOMAIN-SUFFIX,api.alador.space
+DOMAIN-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/STANDARDCHARTERED.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,standchartbank.sc.omtrdc.net
+DOMAIN,standchartbank.tt.omtrdc.net
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,standardchartered.com

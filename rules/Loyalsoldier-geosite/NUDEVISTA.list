@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/NUDEVISTA.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nudevista.com
+DOMAIN-SUFFIX,nudevista.es
+DOMAIN-SUFFIX,nudevista.net
+DOMAIN-SUFFIX,nudevista.vip

@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/AMD.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,amdgaming.com
+DOMAIN-SUFFIX,radeon.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN,www.amd.com

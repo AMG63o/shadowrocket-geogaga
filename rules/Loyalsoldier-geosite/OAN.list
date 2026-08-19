@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/OAN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,aweencore.com
+DOMAIN-SUFFIX,awetv.com
+DOMAIN-SUFFIX,herringnetwork.com
+DOMAIN-SUFFIX,oanencore.com
+DOMAIN-SUFFIX,oann.com

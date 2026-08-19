@@ -1,0 +1,14 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/WALMART.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,walmart
+DOMAIN-SUFFIX,w-mt.co
+DOMAIN-SUFFIX,wal-mart.com
+DOMAIN-SUFFIX,wal.co
+DOMAIN-SUFFIX,walmart-content.com
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,walmart.pharmacy
+DOMAIN-SUFFIX,walmartimages.com
+DOMAIN-SUFFIX,wmt.co
+DOMAIN-SUFFIX,walmart.cn

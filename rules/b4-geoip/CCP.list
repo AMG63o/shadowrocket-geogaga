@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/b4-geoip/CCP.lst
+# Source branch: lists
+# Generated automatically.
+IP-CIDR,87.237.32.0/22
+IP-CIDR,87.237.36.0/24
+IP-CIDR,87.237.38.0/23

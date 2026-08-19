@@ -1,0 +1,14 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/CATEGORY-HOSPITAL-CN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,hospital.pku.edu.cn
+DOMAIN,ss.bjmu.edu.cn
+DOMAIN-SUFFIX,fuwai.com
+DOMAIN-SUFFIX,pkuh6.cn
+DOMAIN-SUFFIX,yctdyy.com
+DOMAIN-SUFFIX,smuszh.com
+DOMAIN-SUFFIX,cd120.com
+DOMAIN-SUFFIX,cd120.info
+DOMAIN-SUFFIX,hnxzctec.com
+DOMAIN-SUFFIX,puh3.net.cn

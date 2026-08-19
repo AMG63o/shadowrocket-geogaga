@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/OSCHINA.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io

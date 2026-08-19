@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/SLING.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,dishworld.com
+DOMAIN-SUFFIX,slinginternational.com
+DOMAIN-SUFFIX,sling.com
+DOMAIN-SUFFIX,movenetworks.com
+DOMAIN-SUFFIX,movetv.com

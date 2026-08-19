@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/MEDUZA.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,meduza.io
+DOMAIN-SUFFIX,meduza-flutter.firebaseapp.com

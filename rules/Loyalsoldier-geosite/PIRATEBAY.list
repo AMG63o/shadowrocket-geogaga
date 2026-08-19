@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/PIRATEBAY.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,pirates-forum.org
+DOMAIN-SUFFIX,torrindex.net
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,apibay.org

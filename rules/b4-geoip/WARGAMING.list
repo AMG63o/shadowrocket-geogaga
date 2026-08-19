@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/b4-geoip/WARGAMING.lst
+# Source branch: lists
+# Generated automatically.
+IP-CIDR,185.12.213.0/24
+IP-CIDR,185.12.214.0/23

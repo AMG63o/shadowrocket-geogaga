@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/b4-geoip/ANTHROPIC.lst
+# Source branch: lists
+# Generated automatically.
+IP-CIDR,160.79.104.0/23
+IP-CIDR6,2607:6bc0::/48
+IP-CIDR6,2607:6bc0:11::/48

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/DMIT.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,dmit.sh

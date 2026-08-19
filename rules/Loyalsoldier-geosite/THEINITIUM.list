@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/THEINITIUM.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,init.shop

@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/JKF.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,jkf.net
+DOMAIN-SUFFIX,jkface.net
+DOMAIN-SUFFIX,jkforum.net
+DOMAIN-SUFFIX,jr24h.com
+DOMAIN-SUFFIX,jvid.com

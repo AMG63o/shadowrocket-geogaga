@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/FLOWUS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,allflow.cn
+DOMAIN-SUFFIX,flowus.cn

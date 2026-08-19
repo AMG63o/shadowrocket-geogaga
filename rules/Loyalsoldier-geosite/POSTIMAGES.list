@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/POSTIMAGES.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,postimages.org
+DOMAIN-SUFFIX,postimg.cc

@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/DLERCLOUD.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dlercloud.org
+DOMAIN-SUFFIX,dlercloud.me
+DOMAIN-SUFFIX,dleris.best

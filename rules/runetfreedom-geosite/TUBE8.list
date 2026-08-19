@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/TUBE8.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,tube8.com
+DOMAIN-SUFFIX,tube8.fr

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/NORDSTROM.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nordstrom.com
+DOMAIN-SUFFIX,nordstrommedia.com

@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/DIVAR.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,divar.cloud
+DOMAIN-SUFFIX,divar.ir
+DOMAIN-SUFFIX,divarcdn.com

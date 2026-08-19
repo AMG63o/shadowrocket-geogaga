@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/OP.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,opgg-static.akamaized.net
+DOMAIN-SUFFIX,op.gg

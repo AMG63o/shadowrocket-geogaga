@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/NYAA.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nyaa.net
+DOMAIN-SUFFIX,nyaa.si

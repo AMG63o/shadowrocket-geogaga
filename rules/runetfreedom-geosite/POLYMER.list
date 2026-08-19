@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/POLYMER.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,polymerproject.org

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/POE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net

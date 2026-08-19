@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/BITSQUARE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,bisq.io
+DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bitsquare.io

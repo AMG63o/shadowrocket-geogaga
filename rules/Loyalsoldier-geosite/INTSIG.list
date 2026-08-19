@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/INTSIG.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,intsig.com
+DOMAIN-SUFFIX,intsig.net
+DOMAIN-SUFFIX,camscanner.com
+DOMAIN-SUFFIX,camcard.com
+DOMAIN-SUFFIX,qixin.com

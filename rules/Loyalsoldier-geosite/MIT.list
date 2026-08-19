@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/MIT.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,mit
+DOMAIN-SUFFIX,mit.edu
+DOMAIN-SUFFIX,mit.net
+DOMAIN-SUFFIX,mitpressjournals.org

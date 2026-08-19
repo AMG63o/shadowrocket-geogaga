@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/IMGUR.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgur.io
+DOMAIN-SUFFIX,imgurinc.com

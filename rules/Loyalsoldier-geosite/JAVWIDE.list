@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/JAVWIDE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,javwide.com
+DOMAIN-SUFFIX,javwide.tv

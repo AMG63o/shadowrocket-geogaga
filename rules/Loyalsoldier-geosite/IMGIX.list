@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/IMGIX.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net

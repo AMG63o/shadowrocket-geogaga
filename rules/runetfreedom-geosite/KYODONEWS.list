@@ -1,0 +1,13 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/KYODONEWS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,47gyosei.jp
+DOMAIN-SUFFIX,47news.jp
+DOMAIN-SUFFIX,kyodo-d.info
+DOMAIN-SUFFIX,kyodo-d.jp
+DOMAIN-SUFFIX,kyodoimages.jp
+DOMAIN-SUFFIX,kyodonews.jp
+DOMAIN-SUFFIX,kyodonews.net
+DOMAIN-SUFFIX,newsmart.jp
+DOMAIN-SUFFIX,nna.jp

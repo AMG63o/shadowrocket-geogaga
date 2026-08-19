@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/HM.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,hm.com
+DOMAIN-SUFFIX,hm.com.cn

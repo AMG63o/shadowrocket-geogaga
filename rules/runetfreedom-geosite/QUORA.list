@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/QUORA.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,www.quora.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,qr.ae
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net

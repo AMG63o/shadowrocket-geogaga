@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/PUBMATIC.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,pubmatic.co.jp

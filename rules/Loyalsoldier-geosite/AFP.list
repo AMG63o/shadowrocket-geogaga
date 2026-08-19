@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/AFP.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,afp.com
+DOMAIN-SUFFIX,afpforum.com

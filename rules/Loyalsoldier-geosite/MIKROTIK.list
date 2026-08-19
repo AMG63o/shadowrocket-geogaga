@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/MIKROTIK.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,mikrotik.com
+DOMAIN-SUFFIX,mt.lv
+DOMAIN-SUFFIX,mynetname.net
+DOMAIN-SUFFIX,routerboard.com

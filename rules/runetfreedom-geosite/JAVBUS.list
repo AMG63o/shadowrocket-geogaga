@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/JAVBUS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javbus22.com
+DOMAIN-SUFFIX,javcdn.cc

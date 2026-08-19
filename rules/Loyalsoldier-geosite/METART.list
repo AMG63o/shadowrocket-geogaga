@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/METART.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,metart.com
+DOMAIN-SUFFIX,metartnetwork.com
+DOMAIN-SUFFIX,metcams.com
+DOMAIN-SUFFIX,naiadsystems.com
+DOMAIN-SUFFIX,nsimg.net

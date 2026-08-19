@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/FICBOOK.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,fanfictionero.com
+DOMAIN-SUFFIX,fic.fan
+DOMAIN-SUFFIX,ficador.com
+DOMAIN-SUFFIX,ficbook.net
+DOMAIN-SUFFIX,ficmania.com
+DOMAIN-SUFFIX,teinon.net

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/GOODREADS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,goodreads.com
+DOMAIN-SUFFIX,gr-assets.com

@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CLIPS4SALE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,c4slive.com
+DOMAIN-SUFFIX,clips4sale.com
+DOMAIN-SUFFIX,videos4sale.com

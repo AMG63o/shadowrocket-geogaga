@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/DMM-PORN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,dmm.co.jp

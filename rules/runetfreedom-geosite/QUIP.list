@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/QUIP.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,quip-cdn.com
+DOMAIN-SUFFIX,quip.com
+DOMAIN-SUFFIX,quipelements.com

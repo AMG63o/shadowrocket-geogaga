@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/LOCALIZEJS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,localizecdn.com
+DOMAIN-SUFFIX,localizejs.com
+DOMAIN-SUFFIX,localizestatus.com

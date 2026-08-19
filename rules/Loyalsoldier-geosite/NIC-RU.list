@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/NIC-RU.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nichost.ru
+DOMAIN-SUFFIX,nic.ru
+DOMAIN-SUFFIX,r01.ru
+DOMAIN-SUFFIX,sweb.ru

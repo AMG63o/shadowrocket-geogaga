@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/GEETEST.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,geetest.datasink.sensorsdata.cn
+DOMAIN-SUFFIX,geetest.com

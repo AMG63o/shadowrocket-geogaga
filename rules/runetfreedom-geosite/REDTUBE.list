@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/REDTUBE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,livehdcams.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,redtubepremium.com
+DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,redtube.com.br

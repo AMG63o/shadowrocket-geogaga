@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/BEGET.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,beget.com
+DOMAIN-SUFFIX,beget.ru

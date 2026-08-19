@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/HONGKONGPOST.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,hongkongpost.gov.hk
+DOMAIN-SUFFIX,ecert.gov.hk

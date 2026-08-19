@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/APIPOST.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,apipost.cn
+DOMAIN-SUFFIX,apipost.net

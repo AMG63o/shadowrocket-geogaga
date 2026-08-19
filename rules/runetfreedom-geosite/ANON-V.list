@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/ANON-V.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,anon-v.com
+DOMAIN-SUFFIX,anon-v.lol

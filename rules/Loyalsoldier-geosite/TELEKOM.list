@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/TELEKOM.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,telekom.com
+DOMAIN-SUFFIX,telekom.de
+DOMAIN-SUFFIX,telesec.de

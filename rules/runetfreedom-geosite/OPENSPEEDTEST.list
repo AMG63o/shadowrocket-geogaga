@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/OPENSPEEDTEST.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,openspeedtest.com
+DOMAIN-SUFFIX,open.cachefly.net

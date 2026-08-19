@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/HUMBLEBUNDLE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,hb.imgix.net
+DOMAIN-SUFFIX,humblebundle.com

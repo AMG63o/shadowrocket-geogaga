@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/BONGACAMS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,bcicdn.com
+DOMAIN-SUFFIX,bcrncdn.com
+DOMAIN-SUFFIX,bcvcdn.com
+DOMAIN-SUFFIX,bgicdn.com
+DOMAIN-SUFFIX,bongacams.com

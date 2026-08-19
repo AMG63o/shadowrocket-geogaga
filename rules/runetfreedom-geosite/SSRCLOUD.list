@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/SSRCLOUD.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,airport-gov-cn.com
+DOMAIN-SUFFIX,cnix-gov-cn.com
+DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com

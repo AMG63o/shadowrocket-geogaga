@@ -1,0 +1,15 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CATEGORY-ANDROID-APP-DOWNLOAD.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,apkmirror.disqus.com
+DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,utdstc.com
+DOMAIN-SUFFIX,apkcombo.com
+DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,apkpures.xyz
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com

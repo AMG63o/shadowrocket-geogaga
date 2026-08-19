@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/ENEBA.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,eneba.com
+DOMAIN-SUFFIX,eneba.games

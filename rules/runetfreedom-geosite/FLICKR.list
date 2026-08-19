@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/FLICKR.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,flickr
+DOMAIN-SUFFIX,flic.kr
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,staticflickr.com

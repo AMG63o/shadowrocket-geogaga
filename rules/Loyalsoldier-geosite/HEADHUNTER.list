@@ -1,0 +1,12 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/HEADHUNTER.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,hh.by
+DOMAIN-SUFFIX,hh.kz
+DOMAIN-SUFFIX,hh.ru
+DOMAIN-SUFFIX,hhcdn.ru
+DOMAIN-SUFFIX,rabota.by
+DOMAIN-SUFFIX,setka.ru
+DOMAIN-SUFFIX,talantix.ru
+DOMAIN-SUFFIX,zarplata.ru

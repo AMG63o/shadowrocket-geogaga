@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/AAMGAME.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,aamgame.net
+DOMAIN-SUFFIX,aamgame.com
+DOMAIN-SUFFIX,aamgame.mobi
+DOMAIN-SUFFIX,aamsmart.com
+DOMAIN-SUFFIX,singworld.net

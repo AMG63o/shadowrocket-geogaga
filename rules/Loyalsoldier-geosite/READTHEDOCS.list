@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/READTHEDOCS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,readthedocs-hosted.com
+DOMAIN-SUFFIX,readthedocs.com
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,readthedocs.org

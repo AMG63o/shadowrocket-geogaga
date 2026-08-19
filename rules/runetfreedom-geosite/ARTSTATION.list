@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/ARTSTATION.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com

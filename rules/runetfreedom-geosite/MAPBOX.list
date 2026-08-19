@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/MAPBOX.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,mapbox.com
+DOMAIN-SUFFIX,mapbox.cn

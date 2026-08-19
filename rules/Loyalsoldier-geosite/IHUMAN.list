@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/IHUMAN.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ihuman.com
+DOMAIN-SUFFIX,hongen.com

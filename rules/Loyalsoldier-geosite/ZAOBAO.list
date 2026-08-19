@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/ZAOBAO.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zaobao.sg
+DOMAIN-SUFFIX,zaobao.com.sg

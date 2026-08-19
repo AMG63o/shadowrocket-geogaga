@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/JFROG.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,d29vzk4ow07wi7.cloudfront.net
+DOMAIN-SUFFIX,jfrog.com
+DOMAIN-SUFFIX,jfrog.org
+DOMAIN-SUFFIX,bintray.com

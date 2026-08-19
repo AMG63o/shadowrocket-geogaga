@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/VOLMOE.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,mox.moe
+DOMAIN-SUFFIX,vol.moe

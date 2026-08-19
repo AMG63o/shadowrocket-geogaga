@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/ASPROEX.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,asproex.com
+DOMAIN-SUFFIX,asproexapi.com

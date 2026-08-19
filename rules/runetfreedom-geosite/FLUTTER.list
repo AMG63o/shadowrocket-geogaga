@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/FLUTTER.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,pub.dev

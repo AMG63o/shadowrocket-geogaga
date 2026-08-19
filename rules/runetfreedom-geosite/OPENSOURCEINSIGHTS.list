@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/OPENSOURCEINSIGHTS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,deps.dev
+DOMAIN-SUFFIX,deps.info
+DOMAIN-SUFFIX,opensourceinsight.dev
+DOMAIN-SUFFIX,opensourceinsights.dev

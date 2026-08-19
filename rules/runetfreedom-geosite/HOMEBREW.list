@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/HOMEBREW.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN,homebrew.bintray.com
+DOMAIN-SUFFIX,brew.sh

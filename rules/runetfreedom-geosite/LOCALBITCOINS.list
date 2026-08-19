@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/LOCALBITCOINS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,localbitcoins.com
+DOMAIN-SUFFIX,localbitcoinschain.com

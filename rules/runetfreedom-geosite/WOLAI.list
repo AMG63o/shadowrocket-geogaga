@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/WOLAI.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,wolai.com
+DOMAIN-SUFFIX,wol.tv
+DOMAIN-SUFFIX,wostatic.cn

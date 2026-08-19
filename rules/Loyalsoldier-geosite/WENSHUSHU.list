@@ -1,0 +1,16 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/WENSHUSHU.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,wenshushu.cn
+DOMAIN-SUFFIX,wenshushu.com
+DOMAIN-SUFFIX,wenxiaozhan.cn
+DOMAIN-SUFFIX,wenxiaozhan.com
+DOMAIN-SUFFIX,wenxiaozhan.net
+DOMAIN-SUFFIX,wss.cc
+DOMAIN-SUFFIX,wss.email
+DOMAIN-SUFFIX,wss.ink
+DOMAIN-SUFFIX,wss.pet
+DOMAIN-SUFFIX,wss.show
+DOMAIN-SUFFIX,wss.zone
+DOMAIN-SUFFIX,wss1.cn

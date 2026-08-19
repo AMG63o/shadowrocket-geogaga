@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/AEROGARD.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,aerogardcn.com
+DOMAIN-SUFFIX,aerogard.com.au
+DOMAIN-SUFFIX,aerogard.com.cn

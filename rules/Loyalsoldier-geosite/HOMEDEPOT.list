@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/HOMEDEPOT.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,homedepot-static.com
+DOMAIN-SUFFIX,homedepot.com

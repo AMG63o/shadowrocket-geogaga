@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/HAIER.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ehaier.com
+DOMAIN-SUFFIX,haier.com
+DOMAIN-SUFFIX,haier.net
+DOMAIN-SUFFIX,haiersmarthomes.com

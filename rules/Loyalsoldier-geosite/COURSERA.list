@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/COURSERA.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,coursera-for-business.org
+DOMAIN-SUFFIX,coursera.community
+DOMAIN-SUFFIX,coursera.help
+DOMAIN-SUFFIX,coursera.org

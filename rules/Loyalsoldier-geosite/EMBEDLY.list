@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/EMBEDLY.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,embed.ly
+DOMAIN-SUFFIX,embedly.com
+DOMAIN-SUFFIX,playerjs.io
