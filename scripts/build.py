@@ -11,10 +11,6 @@ API_ROOT = f"https://api.github.com/repos/{SOURCE_REPO}/contents"
 RAW_ROOT = f"https://raw.githubusercontent.com/{SOURCE_REPO}/{SOURCE_REF}"
 OUT = Path("rules")
 
-GEOSITE_SOURCE = "Client-Flavor-geosite"
-GEOIP_SOURCE = "Client-Flavor-geoip"
-CATEGORIES = ("GEOGAGA-DIRECT", "GEOGAGA-PROXY", "GEOGAGA-BLOCK")
-
 
 def get_json(url):
     req = urllib.request.Request(url, headers={"User-Agent": "shadowrocket-geogaga"})
@@ -22,10 +18,33 @@ def get_json(url):
         return json.load(response)
 
 
+def list_dir(path=""):
+    suffix = f"/{path}" if path else ""
+    return get_json(f"{API_ROOT}{suffix}?ref={SOURCE_REF}")
+
+
 def raw(path):
     req = urllib.request.Request(f"{RAW_ROOT}/{path}", headers={"User-Agent": "shadowrocket-geogaga"})
     with urllib.request.urlopen(req, timeout=90) as response:
         return response.read().decode("utf-8", errors="replace")
+
+
+def top_level_sources():
+    sources = []
+    for item in list_dir():
+        if item["type"] == "dir" and (item["name"].endswith("-geosite") or item["name"].endswith("-geoip")):
+            sources.append(item["name"])
+    return sorted(sources)
+
+
+def collect_lst_files(directory):
+    result = []
+    for item in list_dir(directory):
+        if item["type"] == "file" and item["name"].lower().endswith(".lst"):
+            result.append(item["path"])
+        elif item["type"] == "dir":
+            result.extend(collect_lst_files(item["path"]))
+    return sorted(result)
 
 
 def convert_geosite(text):
@@ -41,10 +60,11 @@ def convert_geosite(text):
         value = value.strip()
         if not value:
             continue
+        value_no_dot = value.lower().rstrip(".")
         if kind == "domain":
-            rule = f"DOMAIN-SUFFIX,{value.lower().rstrip('.') }"
+            rule = f"DOMAIN-SUFFIX,{value_no_dot}"
         elif kind == "full":
-            rule = f"DOMAIN,{value.lower().rstrip('.') }"
+            rule = f"DOMAIN,{value_no_dot}"
         elif kind == "keyword":
             rule = f"DOMAIN-KEYWORD,{value}"
         elif kind == "regex":
@@ -76,13 +96,13 @@ def convert_geoip(text):
     return rules
 
 
-def write_rules(path, rules, title):
+def write_rules(path, rules, source_path):
     path.parent.mkdir(parents=True, exist_ok=True)
     header = (
-        f"# {title}\n"
-        "# Source: bratishkadrugoimamysynishka/geogaga-client-flavor\n"
-        "# Source branch: lists\n"
-        "# Generated automatically for Shadowrocket.\n"
+        "# GeoGaGa -> Shadowrocket RULE-SET\n"
+        f"# Source: {SOURCE_REPO}/{source_path}\n"
+        f"# Source branch: {SOURCE_REF}\n"
+        "# Generated automatically.\n"
     )
     path.write_text(header + "\n".join(rules) + "\n", encoding="utf-8")
 
@@ -94,44 +114,29 @@ OUT.mkdir(parents=True)
 meta = {
     "source": SOURCE_REPO,
     "ref": SOURCE_REF,
-    "geosite_source": GEOSITE_SOURCE,
-    "geoip_source": GEOIP_SOURCE,
-    "categories": {},
+    "sources": {},
 }
 
-for category in CATEGORIES:
-    geosite_rules = convert_geosite(raw(f"{GEOSITE_SOURCE}/{category}.lst"))
-    geoip_rules = convert_geoip(raw(f"{GEOIP_SOURCE}/{category}.lst"))
+for source in top_level_sources():
+    is_geosite = source.endswith("-geosite")
+    source_files = collect_lst_files(source)
+    meta["sources"][source] = {"files": 0, "rules": 0}
 
-    write_rules(
-        OUT / "geosite" / f"{category}.list",
-        geosite_rules,
-        f"GeoGaGa {category} geosite",
-    )
-    write_rules(
-        OUT / "geoip" / f"{category}.list",
-        geoip_rules,
-        f"GeoGaGa {category} geoip",
-    )
+    for source_path in source_files:
+        text = raw(source_path)
+        rules = convert_geosite(text) if is_geosite else convert_geoip(text)
 
-    meta["categories"][category] = {
-        "geosite_rules": len(geosite_rules),
-        "geoip_rules": len(geoip_rules),
-    }
+        relative = source_path[len(source) + 1:]
+        output_name = str(Path(relative).with_suffix(".list"))
+        output_path = OUT / source / output_name
+        write_rules(output_path, rules, source_path)
 
-# Ready-to-paste Shadowrocket rules using standard policy names.
-config = [
-    "# GeoGaGa Client-Flavor -> Shadowrocket",
-    "# Replace PROXY with your actual proxy policy name if needed.",
-    "[Rule]",
-    "RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-BLOCK.list,REJECT",
-    "RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-DIRECT.list,DIRECT",
-    "RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-PROXY.list,PROXY",
-    "RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-BLOCK.list,REJECT",
-    "RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-DIRECT.list,DIRECT",
-    "RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-PROXY.list,PROXY",
-]
-(OUT / "shadowrocket-rules.conf").write_text("\n".join(config) + "\n", encoding="utf-8")
+        meta["sources"][source]["files"] += 1
+        meta["sources"][source]["rules"] += len(rules)
 
-Path("rules/meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+Path("rules/meta.json").write_text(
+    json.dumps(meta, indent=2, ensure_ascii=False) + "\n",
+    encoding="utf-8",
+)
+
 print(json.dumps(meta, indent=2, ensure_ascii=False))
