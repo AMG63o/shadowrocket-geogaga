@@ -36,6 +36,17 @@ rules/Client-Flavor-geosite/GEOGAGA-PROXY.list
 
 ## Использование в Shadowrocket
 
+Этот набор правил предполагается использовать **совместно** с конфигурацией из репозитория:
+
+https://github.com/misha-tgshv/shadowrocket-configuration-file
+
+В качестве базовых правил используются:
+
+- [`sr_ru_geo.conf`](https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/main/conf/sr_ru_geo.conf) — базовые правила геомаршрутизации для РФ.
+- [`sr_ru_extended.conf`](https://raw.githubusercontent.com/misha-tgshv/shadowrocket-configuration-file/refs/heads/main/conf/sr_ru_extended.conf) — файл для дополнительных пользовательских и кастомных правил.
+
+Рекомендуемая схема: базовые правила оставлять в `sr_ru_geo.conf`, а свои дополнительные правила и подключение необходимых GeoGaGa `RULE-SET` добавлять в `sr_ru_extended.conf`. Это позволяет сохранять базовую конфигурацию отдельно и не смешивать её с пользовательскими правилами.
+
 Любой сгенерированный `.list` можно подключать как удалённый `RULE-SET`. Например:
 
 ```ini
@@ -53,4 +64,4 @@ RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rule
 
 GitHub Actions автоматически запускается **каждые 6 часов** (`00:17, 06:17, 12:17 и 18:17 UTC`), клонирует свежую ветку `lists`, полностью пересобирает все исходные rule-set и публикует изменения в этом репозитории. Ручной запуск также доступен через Actions.
 
-Таким образом, после добавления нужного `RULE-SET` в Shadowrocket вручную обновлять списки в этом репозитории не требуется.
+Таким образом, после добавления нужного `RULE-SET` в `sr_ru_extended.conf` вручную обновлять списки в этом репозитории не требуется.
