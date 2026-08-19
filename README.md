@@ -1,40 +1,59 @@
 # Shadowrocket GeoGaGa
 
-Автоматически обновляемые rule-set для Shadowrocket на основе списков GeoGaGa / RunetFreedom.
+Автоматически обновляемые rule-set для Shadowrocket непосредственно из ветки `lists` репозитория `bratishkadrugoimamysynishka/geogaga-client-flavor`.
 
-## Как это работает
+## Источник
 
-GitHub Actions каждые 6 часов получает актуальные `.lst` из ветки `lists` репозитория GeoGaGa, преобразует их в синтаксис Shadowrocket и публикует готовые файлы в `rules/`.
+Используется именно `Client-Flavor-geosite` и `Client-Flavor-geoip`, а не RunetFreedom или другие сторонние наборы.
 
-Исходные geosite-файлы содержат записи вида `domain:example.com`; конвертер превращает их в `DOMAIN-SUFFIX,example.com`. GeoIP-префиксы CIDR превращаются в `IP-CIDR,...`.
+В исходном репозитории есть три категории:
 
-## Rule-set для Shadowrocket
+- `GEOGAGA-DIRECT`
+- `GEOGAGA-PROXY`
+- `GEOGAGA-BLOCK`
 
-После первого запуска Actions доступны:
+Для geosite исходные записи `domain:`, `full:`, `keyword:` и `regex:` преобразуются в соответствующие правила Shadowrocket. Для geoip IPv4 преобразуется в `IP-CIDR`, IPv6 — в `IP-CIDR6`.
 
-- `rules/runetfreedom-geosite.list` — доменные правила.
-- `rules/runetfreedom-geoip.list` — IP/CIDR правила.
+## Готовые rule-set
 
-Raw URL для geosite:
+Geosite:
 
-`https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/runetfreedom-geosite.list`
+- `rules/geosite/GEOGAGA-DIRECT.list`
+- `rules/geosite/GEOGAGA-PROXY.list`
+- `rules/geosite/GEOGAGA-BLOCK.list`
 
-Raw URL для geoip:
+GeoIP:
 
-`https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/runetfreedom-geoip.list`
+- `rules/geoip/GEOGAGA-DIRECT.list`
+- `rules/geoip/GEOGAGA-PROXY.list`
+- `rules/geoip/GEOGAGA-BLOCK.list`
 
-## Пример правил Shadowrocket
+## Raw URL
 
-В секции `[Rule]`:
+```text
+https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-DIRECT.list
+https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-PROXY.list
+https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-BLOCK.list
 
-`RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/runetfreedom-geosite.list,PROXY`
+https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-DIRECT.list
+https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-PROXY.list
+https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-BLOCK.list
+```
 
-`RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/runetfreedom-geoip.list,PROXY`
+## Shadowrocket
 
-Замените `PROXY` на название вашей политики в Shadowrocket, если оно отличается.
+```ini
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-BLOCK.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-DIRECT.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geosite/GEOGAGA-PROXY.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-BLOCK.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-DIRECT.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geoip/GEOGAGA-PROXY.list,PROXY
+```
+
+`PROXY` замени на название своей политики в Shadowrocket, если оно отличается.
 
 ## Обновление
 
-Workflow запускается автоматически каждые 6 часов и также может быть запущен вручную через GitHub Actions.
-
-Важно: GitHub Actions обновляет только файлы, которые реально изменились. Списки не редактируются вручную.
+GitHub Actions запускает сборку при изменениях в репозитории и автоматически каждые 6 часов. На каждом запуске берётся свежая ветка `lists`, а готовые rule-set полностью пересобираются.
