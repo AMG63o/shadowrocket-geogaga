@@ -4,11 +4,11 @@
 
 ## Оригинальный репозиторий
 
-urlGeoGaGa Client-Flavor — оригинальный репозиторийhttps://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor
+[GeoGaGa Client-Flavor — оригинальный репозиторий](https://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor)
 
 Используется именно ветка `lists`:
 
-`https://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor/tree/lists`
+https://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor/tree/lists
 
 ## Источник
 
