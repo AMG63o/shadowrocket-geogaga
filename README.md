@@ -2,6 +2,14 @@
 
 Автоматически обновляемые rule-set для Shadowrocket напрямую из всей ветки `lists` исходного репозитория `bratishkadrugoimamysynishka/geogaga-client-flavor`.
 
+## Оригинальный репозиторий
+
+urlGeoGaGa Client-Flavor — оригинальный репозиторийhttps://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor
+
+Используется именно ветка `lists`:
+
+`https://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor/tree/lists`
+
 ## Источник
 
 Репозиторий-источник не ограничивается RunetFreedom или одним Client-Flavor. Workflow клонирует всю ветку `lists` и обрабатывает все каталоги, оканчивающиеся на `-geosite` и `-geoip`.
@@ -43,4 +51,6 @@ RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rule
 
 ## Обновление
 
-GitHub Actions клонирует свежую ветку `lists`, полностью пересобирает все исходные rule-set и публикует их в этом репозитории каждые 6 часов. Ручной запуск также доступен через Actions.
+GitHub Actions автоматически запускается **каждые 6 часов** (`00:17, 06:17, 12:17 и 18:17 UTC`), клонирует свежую ветку `lists`, полностью пересобирает все исходные rule-set и публикует изменения в этом репозитории. Ручной запуск также доступен через Actions.
+
+Таким образом, после добавления нужного `RULE-SET` в Shadowrocket вручную обновлять списки в этом репозитории не требуется.
