@@ -19,6 +19,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Fetch source GeoGaGa lists
+        run: git clone --depth 1 --branch lists https://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor.git /tmp/geogaga-source
+
       - name: Build Shadowrocket rule sets
         run: python3 scripts/build.py
 
