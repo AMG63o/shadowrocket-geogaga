@@ -4,7 +4,7 @@
   "sources": {
     "Client-Flavor-geoip": {
       "files": 3,
-      "rules": 85427
+      "rules": 85495
     },
     "Client-Flavor-geosite": {
       "files": 3,
@@ -20,11 +20,11 @@
     },
     "b4-geoip": {
       "files": 309,
-      "rules": 1259076
+      "rules": 1259063
     },
     "roscomvpn-geoip": {
       "files": 3,
-      "rules": 42087
+      "rules": 42165
     },
     "roscomvpn-geosite": {
       "files": 23,
@@ -32,7 +32,7 @@
     },
     "runetfreedom-geoip": {
       "files": 266,
-      "rules": 1238098
+      "rules": 1230754
     },
     "runetfreedom-geosite": {
       "files": 1535,
