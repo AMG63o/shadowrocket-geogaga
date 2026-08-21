@@ -12,11 +12,11 @@
     },
     "Loyalsoldier-geoip": {
       "files": 260,
-      "rules": 1093363
+      "rules": 1085991
     },
     "Loyalsoldier-geosite": {
       "files": 1535,
-      "rules": 486781
+      "rules": 509222
     },
     "b4-geoip": {
       "files": 309,
