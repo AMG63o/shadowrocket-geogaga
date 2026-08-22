@@ -4,7 +4,7 @@
   "sources": {
     "Client-Flavor-geoip": {
       "files": 3,
-      "rules": 85580
+      "rules": 85596
     },
     "Client-Flavor-geosite": {
       "files": 3,
