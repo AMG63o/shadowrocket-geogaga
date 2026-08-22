@@ -4,7 +4,7 @@
   "sources": {
     "Client-Flavor-geoip": {
       "files": 3,
-      "rules": 85491
+      "rules": 85497
     },
     "Client-Flavor-geosite": {
       "files": 3,
@@ -16,7 +16,7 @@
     },
     "Loyalsoldier-geosite": {
       "files": 1535,
-      "rules": 509222
+      "rules": 509593
     },
     "b4-geoip": {
       "files": 309,
