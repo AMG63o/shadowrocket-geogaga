@@ -2,8 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CATEGORY-ENTERTAINMENT-RU.lst
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,viju.ru
-DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,cdnvideo.ru
+DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,kinorium.com
@@ -16,14 +16,8 @@ DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,start.ru
 DOMAIN-SUFFIX,tvigle.ru
-DOMAIN-SUFFIX,cdnvideohub.com
-DOMAIN-SUFFIX,cdnvideo.ru
-DOMAIN-SUFFIX,rtbcdn.ru
-DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,viju.ru
 DOMAIN-SUFFIX,promodj.com
-DOMAIN-SUFFIX,rutube.sport
-DOMAIN-SUFFIX,kinopoisk.ru
-DOMAIN-SUFFIX,wink.ru
 DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
@@ -32,4 +26,10 @@ DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru
 DOMAIN-SUFFIX,more.tv
 DOMAIN-SUFFIX,wink.am
+DOMAIN-SUFFIX,wink.ru
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
+DOMAIN-SUFFIX,rutube.sport
+DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net

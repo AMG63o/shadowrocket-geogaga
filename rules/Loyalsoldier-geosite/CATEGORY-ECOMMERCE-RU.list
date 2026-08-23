@@ -2,12 +2,9 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CATEGORY-ECOMMERCE-RU.lst
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,wbstatic.ru
-DOMAIN-SUFFIX,ozon.dev
+DOMAIN-SUFFIX,wbwh.tech
+DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,drom.ru
-DOMAIN-SUFFIX,funpay.ru
-DOMAIN-SUFFIX,sfunpay.com
-DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,ozon.tech
 DOMAIN-SUFFIX,o3t.ru
 DOMAIN-SUFFIX,o3team.ru
@@ -21,10 +18,10 @@ DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
 DOMAIN-SUFFIX,ozoncamp.pro
-DOMAIN-SUFFIX,wbtek.ru
+DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozon.travel
 DOMAIN-SUFFIX,ozon.global
-DOMAIN-SUFFIX,ozon.kz
+DOMAIN-SUFFIX,wibes.com
 DOMAIN-SUFFIX,ozon.li
 DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,rocketozon.by
@@ -84,12 +81,12 @@ DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,wbr.by
 DOMAIN-SUFFIX,wbrep.ru
 DOMAIN-SUFFIX,wbstatic.net
-DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,wbtek.ru
+DOMAIN-SUFFIX,wbwh.ru
+DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,rdrom.ru
-DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
-DOMAIN-SUFFIX,wbwh.tech
-DOMAIN-SUFFIX,wibes.com
-DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,wildberries.am
 DOMAIN-SUFFIX,wildberries.by
 DOMAIN-SUFFIX,wildberries.es
@@ -144,13 +141,13 @@ DOMAIN-SUFFIX,willberiess.ru
 DOMAIN-SUFFIX,willberis.ru
 DOMAIN-SUFFIX,wldberris.ru
 DOMAIN-SUFFIX,wolfberries.ru
-DOMAIN-SUFFIX,wbwh.ru
+DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
 DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,flowwow.com
-DOMAIN-SUFFIX,flowwow-images.com
-DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
-DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
 DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,autoru.me
 DOMAIN-SUFFIX,avto.ru
@@ -162,6 +159,9 @@ DOMAIN-SUFFIX,cian.site
 DOMAIN-SUFFIX,ciangroup.ru
 DOMAIN-SUFFIX,dmir.ru
 DOMAIN-SUFFIX,poudobnee.com
+DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
+DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
+DOMAIN-SUFFIX,flowwow-images.com
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozonru.co.il
