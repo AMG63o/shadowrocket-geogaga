@@ -4,7 +4,7 @@
   "sources": {
     "Client-Flavor-geoip": {
       "files": 3,
-      "rules": 85816
+      "rules": 85828
     },
     "Client-Flavor-geosite": {
       "files": 3,
@@ -20,7 +20,7 @@
     },
     "b4-geoip": {
       "files": 309,
-      "rules": 1251821
+      "rules": 1251854
     },
     "roscomvpn-geoip": {
       "files": 3,
