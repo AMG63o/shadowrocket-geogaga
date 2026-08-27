@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/NEWGROUNDS.lst
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,newgrounds.com
+DOMAIN-SUFFIX,ngfiles.com
