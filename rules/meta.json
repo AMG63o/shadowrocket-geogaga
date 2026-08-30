@@ -4,7 +4,7 @@
   "sources": {
     "Client-Flavor-geoip": {
       "files": 3,
-      "rules": 85998
+      "rules": 86056
     },
     "Client-Flavor-geosite": {
       "files": 3,
@@ -32,7 +32,7 @@
     },
     "runetfreedom-geoip": {
       "files": 266,
-      "rules": 1234081
+      "rules": 1234080
     },
     "runetfreedom-geosite": {
       "files": 1535,
