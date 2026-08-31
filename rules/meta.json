@@ -8,15 +8,15 @@
     },
     "Client-Flavor-geosite": {
       "files": 3,
-      "rules": 77347
+      "rules": 77349
     },
     "Loyalsoldier-geoip": {
       "files": 260,
       "rules": 1089330
     },
     "Loyalsoldier-geosite": {
-      "files": 1536,
-      "rules": 487536
+      "files": 1537,
+      "rules": 510338
     },
     "b4-geoip": {
       "files": 309,
