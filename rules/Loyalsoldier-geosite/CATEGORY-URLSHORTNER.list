@@ -2,8 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/CATEGORY-URLSHORTNER.lst
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,shorturl.at
-DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitly.com
 DOMAIN-SUFFIX,bitly.is
+DOMAIN-SUFFIX,shorturl.at
+DOMAIN-SUFFIX,tinyurl.com
