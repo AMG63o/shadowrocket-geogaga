@@ -2,7 +2,7 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geoip/DDOS-GUARD.lst
 # Source branch: lists
 # Generated automatically.
-IP-CIDR,45.10.240.0/24
+IP-CIDR,45.10.240.0/23
 IP-CIDR,45.10.243.0/24
 IP-CIDR,45.155.60.0/24
 IP-CIDR,91.192.92.0/24

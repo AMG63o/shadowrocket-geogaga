@@ -2,7 +2,6 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/b4-geoip/BV.lst
 # Source branch: lists
 # Generated automatically.
-IP-CIDR,5.175.190.112/29
 IP-CIDR,69.30.251.141/32
 IP-CIDR,104.28.8.236/31
 IP-CIDR,104.28.8.238/32
@@ -26,6 +25,7 @@ IP-CIDR6,2001:470:f137::/48
 IP-CIDR6,2001:470:f2f2::/48
 IP-CIDR6,2001:470:fe8f::/48
 IP-CIDR6,2001:470:ffd7::/48
+IP-CIDR6,2401:3620:231:2b::/64
 IP-CIDR6,2600:70ff:a75d::/48
 IP-CIDR6,2a04:4e41:4012:1000::/52
 IP-CIDR6,2a04:4e41:4022:1000::/52
