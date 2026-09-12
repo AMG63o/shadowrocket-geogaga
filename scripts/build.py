@@ -10,15 +10,6 @@ SOURCE_DIR = Path("/tmp/geogaga-source")
 OUT = Path("rules")
 STAGING = Path("/tmp/geogaga-rules")
 
-REQUIRED_SOURCE_FILES = (
-    "Client-Flavor-geosite/GEOGAGA-BLOCK.lst",
-    "Client-Flavor-geosite/GEOGAGA-DIRECT.lst",
-    "Client-Flavor-geosite/GEOGAGA-PROXY.lst",
-    "Client-Flavor-geoip/GEOGAGA-BLOCK.lst",
-    "Client-Flavor-geoip/GEOGAGA-DIRECT.lst",
-    "Client-Flavor-geoip/GEOGAGA-PROXY.lst",
-)
-
 
 def convert_geosite(text):
     rules = []
@@ -86,10 +77,8 @@ def fail(message):
 if not SOURCE_DIR.exists():
     fail(f"Source repository is missing: {SOURCE_DIR}")
 
-missing = [path for path in REQUIRED_SOURCE_FILES if not (SOURCE_DIR / path).is_file()]
-if missing:
-    fail("Upstream lists are incomplete; refusing to replace current rules. Missing: " + ", ".join(missing))
-
+# GeoGaGa can rename source directories/files without changing their meaning.
+# Discover every *-geosite / *-geoip directory instead of depending on old names.
 source_dirs = [
     path for path in sorted(SOURCE_DIR.iterdir())
     if path.is_dir() and (path.name.endswith("-geosite") or path.name.endswith("-geoip"))
@@ -104,10 +93,14 @@ STAGING.mkdir(parents=True)
 meta = {"source": SOURCE_REPO, "ref": SOURCE_REF, "sources": {}}
 generated_files = 0
 generated_rules = 0
+nonempty_files = 0
 
 for source_dir in source_dirs:
     is_geosite = source_dir.name.endswith("-geosite")
-    source_files = sorted(source_dir.rglob("*.lst"))
+    source_files = sorted(
+        path for path in source_dir.rglob("*")
+        if path.is_file() and path.suffix.lower() == ".lst"
+    )
     meta["sources"][source_dir.name] = {"files": 0, "rules": 0}
 
     for source_file in source_files:
@@ -120,21 +113,18 @@ for source_dir in source_dirs:
         meta["sources"][source_dir.name]["rules"] += len(rules)
         generated_files += 1
         generated_rules += len(rules)
+        if rules:
+            nonempty_files += 1
 
 if generated_files == 0:
     fail("No .lst files were converted; refusing to replace current rules.")
 
-for required in REQUIRED_SOURCE_FILES:
-    output_path = STAGING / Path(required).with_suffix(".list")
-    if not output_path.is_file():
-        fail(f"Required output was not generated: {output_path}")
+if nonempty_files == 0:
+    fail("All converted source files are empty; refusing to replace current rules.")
 
-for required in ("Client-Flavor-geosite/GEOGAGA-DIRECT.lst", "Client-Flavor-geosite/GEOGAGA-PROXY.lst"):
-    output_path = STAGING / Path(required).with_suffix(".list")
-    if not any(line and not line.startswith("#") for line in output_path.read_text(encoding="utf-8").splitlines()):
-        fail(f"Required output contains no rules: {output_path}")
-
+meta["source_directories"] = len(source_dirs)
 meta["generated_files"] = generated_files
+meta["nonempty_files"] = nonempty_files
 meta["generated_rules"] = generated_rules
 (STAGING / "meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
