@@ -2,6 +2,7 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/DanielLavrushin-b4geoip-geoip/TL.LST
 # Source branch: lists
 # Generated automatically.
+IP-CIDR,14.137.33.0/24
 IP-CIDR,43.243.120.0/22
 IP-CIDR,43.243.176.0/22
 IP-CIDR,43.254.56.0/22
@@ -17,6 +18,7 @@ IP-CIDR,103.55.48.0/22
 IP-CIDR,103.70.66.0/24
 IP-CIDR,103.94.180.0/22
 IP-CIDR,103.99.26.0/24
+IP-CIDR,103.103.61.148/31
 IP-CIDR,103.112.36.0/22
 IP-CIDR,103.143.164.0/23
 IP-CIDR,103.148.184.0/23
