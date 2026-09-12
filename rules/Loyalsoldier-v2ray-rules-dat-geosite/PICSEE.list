@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/PICSEE.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,pics.ee
+DOMAIN-SUFFIX,picsee.co
+DOMAIN-SUFFIX,picsee.pro
+DOMAIN-SUFFIX,pise.pw
+DOMAIN-SUFFIX,pros.ee
+DOMAIN-SUFFIX,pse.is

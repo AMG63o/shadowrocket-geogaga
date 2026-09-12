@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/BLUEARCHIVE.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,bluearchive.jp
+DOMAIN-SUFFIX,bluearchive.nexon.com
+DOMAIN-SUFFIX,bluearchive-cn.com

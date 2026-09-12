@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/FLATPAK.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,flathub.org
+DOMAIN-SUFFIX,flatpak.org

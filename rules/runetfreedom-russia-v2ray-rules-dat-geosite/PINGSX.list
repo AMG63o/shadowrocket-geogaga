@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/PINGSX.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN,public-us-pingsx.api.clonoth.com
+DOMAIN-SUFFIX,ping.sx

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/NIST.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov

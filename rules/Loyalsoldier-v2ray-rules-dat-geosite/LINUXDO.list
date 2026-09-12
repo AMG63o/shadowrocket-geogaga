@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/LINUXDO.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,ldstatic.com

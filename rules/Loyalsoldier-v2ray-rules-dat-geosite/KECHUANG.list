@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/KECHUANG.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,kechuang.org
+DOMAIN-SUFFIX,kexinshe.com

@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CLIPS4SALE.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,c4slive.com
+DOMAIN-SUFFIX,clips4sale.com
+DOMAIN-SUFFIX,videos4sale.com

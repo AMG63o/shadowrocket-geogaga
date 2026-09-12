@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/BUYMEACOFFEE.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,buymeacoff.ee
+DOMAIN-SUFFIX,buymeacoffee.com

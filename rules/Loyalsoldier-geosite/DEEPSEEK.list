@@ -1,6 +1,0 @@
-# GeoGaGa -> Shadowrocket RULE-SET
-# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/DEEPSEEK.lst
-# Source branch: lists
-# Generated automatically.
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,deepseeksvc.com

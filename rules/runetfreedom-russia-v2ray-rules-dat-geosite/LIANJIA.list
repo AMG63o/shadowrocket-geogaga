@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/LIANJIA.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,lianjia.com
+DOMAIN-SUFFIX,ljcdn.com
+DOMAIN-SUFFIX,beckyroom.com
+DOMAIN-SUFFIX,ke.com

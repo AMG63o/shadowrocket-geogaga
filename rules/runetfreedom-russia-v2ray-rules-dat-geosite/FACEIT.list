@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/FACEIT.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,faceit.com
+DOMAIN-SUFFIX,faceit-cdn.net

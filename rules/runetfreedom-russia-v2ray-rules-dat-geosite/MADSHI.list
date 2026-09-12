@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/MADSHI.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,madshi.net
+DOMAIN-SUFFIX,madvr.com
+DOMAIN-SUFFIX,madvr.net
+DOMAIN-SUFFIX,madvrlabs.llc

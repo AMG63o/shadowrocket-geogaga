@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/LOCALIZEJS.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,localizecdn.com
+DOMAIN-SUFFIX,localizejs.com
+DOMAIN-SUFFIX,localizestatus.com

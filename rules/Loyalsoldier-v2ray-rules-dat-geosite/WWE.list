@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/WWE.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,wwe.com
+DOMAIN-SUFFIX,wwe9.com

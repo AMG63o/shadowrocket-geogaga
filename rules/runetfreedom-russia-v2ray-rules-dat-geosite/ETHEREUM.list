@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/ETHEREUM.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,devcon.org
+DOMAIN-SUFFIX,ethereum.foundation
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,etherscan.io

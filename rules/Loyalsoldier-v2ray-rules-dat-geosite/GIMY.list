@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/GIMY.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,gimy.cc
+DOMAIN-SUFFIX,gimy.co
+DOMAIN-SUFFIX,gimy.to
+DOMAIN-SUFFIX,gimy.tv

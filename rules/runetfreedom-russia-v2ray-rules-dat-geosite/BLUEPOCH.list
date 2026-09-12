@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/BLUEPOCH.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,bluepoch.com
+DOMAIN-SUFFIX,sl916.com

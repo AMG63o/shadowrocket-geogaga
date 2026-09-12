@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/IMPERIALCOLLEGE.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN,imperial.insendi.com
+DOMAIN-SUFFIX,imperialbusiness.school
+DOMAIN-SUFFIX,ic.ac.uk
+DOMAIN-SUFFIX,imperial.ac.uk

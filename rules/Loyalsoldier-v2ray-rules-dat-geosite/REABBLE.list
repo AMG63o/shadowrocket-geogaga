@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/REABBLE.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,reabble.com
+DOMAIN-SUFFIX,reabble.cn

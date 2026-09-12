@@ -1,9 +1,0 @@
-# GeoGaGa -> Shadowrocket RULE-SET
-# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/ATTWATCHTV.lst
-# Source branch: lists
-# Generated automatically.
-DOMAIN-SUFFIX,att.tv
-DOMAIN-SUFFIX,atttvnow.com
-DOMAIN-SUFFIX,attwatchtv.com
-DOMAIN-SUFFIX,dtvce.com
-DOMAIN-SUFFIX,nettyinternet.com

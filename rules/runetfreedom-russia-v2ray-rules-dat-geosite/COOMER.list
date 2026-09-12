@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/COOMER.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,coomer.party
+DOMAIN-SUFFIX,coomer.st
+DOMAIN-SUFFIX,coomer.su

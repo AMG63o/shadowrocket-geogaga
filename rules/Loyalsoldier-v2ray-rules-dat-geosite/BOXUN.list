@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/BOXUN.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,boxun.com
+DOMAIN-SUFFIX,bowenpress.com

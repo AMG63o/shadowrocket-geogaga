@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CNET.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnet.de
+DOMAIN-SUFFIX,cnetfrance.fr
+DOMAIN-SUFFIX,download.com
+DOMAIN-SUFFIX,cnet.co.kr

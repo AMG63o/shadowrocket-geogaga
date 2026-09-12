@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/RUBYCHINA.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ruby-china.org
+DOMAIN-SUFFIX,rubyconfchina.org

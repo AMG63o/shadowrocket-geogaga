@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/WALLHAVEN.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,whvn.cc

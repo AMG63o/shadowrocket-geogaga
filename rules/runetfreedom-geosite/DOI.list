@@ -1,6 +1,0 @@
-# GeoGaGa -> Shadowrocket RULE-SET
-# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-geosite/DOI.lst
-# Source branch: lists
-# Generated automatically.
-DOMAIN-SUFFIX,doi.org
-DOMAIN-SUFFIX,doi.info

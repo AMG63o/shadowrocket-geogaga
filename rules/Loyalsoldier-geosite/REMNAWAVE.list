@@ -1,8 +1,0 @@
-# GeoGaGa -> Shadowrocket RULE-SET
-# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-geosite/REMNAWAVE.lst
-# Source branch: lists
-# Generated automatically.
-DOMAIN-SUFFIX,docs.rw
-DOMAIN-SUFFIX,log.rw
-DOMAIN-SUFFIX,remna.st
-DOMAIN-SUFFIX,try.rw

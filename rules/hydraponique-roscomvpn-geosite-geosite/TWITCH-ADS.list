@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/hydraponique-roscomvpn-geosite-geosite/TWITCH-ADS.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ads.twitch.tv
+DOMAIN-SUFFIX,gql.twitch.tv
+DOMAIN-SUFFIX,playlist.ttvnw.net
+DOMAIN-SUFFIX,static-cdn.jtvnw.net
+DOMAIN-SUFFIX,usher.ttvnw.net

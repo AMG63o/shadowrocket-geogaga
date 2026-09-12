@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CLOUDINARY.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net

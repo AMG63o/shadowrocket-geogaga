@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CAPITALONLINE.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,capitalonline.net
+DOMAIN-SUFFIX,mirrors.yun-idc.com
