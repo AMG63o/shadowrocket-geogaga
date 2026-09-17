@@ -16,7 +16,7 @@
     },
     "geogaga-client-flavor-geoip": {
       "files": 2,
-      "rules": 86484
+      "rules": 86485
     },
     "geogaga-client-flavor-geosite": {
       "files": 3,
@@ -32,7 +32,7 @@
     },
     "mansourjabin-cdn-ip-database-geoip": {
       "files": 22,
-      "rules": 14201
+      "rules": 14202
     },
     "runetfreedom-russia-v2ray-rules-dat-geoip": {
       "files": 266,
@@ -46,5 +46,5 @@
   "source_directories": 10,
   "generated_files": 3724,
   "nonempty_files": 3724,
-  "generated_rules": 6398294
+  "generated_rules": 6398296
 }
