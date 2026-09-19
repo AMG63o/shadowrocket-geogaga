@@ -2,9 +2,9 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/mansourjabin-cdn-ip-database-geoip/CDNETWORKS.LST
 # Source branch: lists
 # Generated automatically.
-IP-CIDR,174.35.126.0/24
-IP-CIDR,208.80.251.0/24
 IP-CIDR,174.35.127.0/24
-IP-CIDR,174.35.124.0/24
 IP-CIDR,211.43.147.0/24
+IP-CIDR,174.35.124.0/24
+IP-CIDR,208.80.251.0/24
 IP-CIDR,174.35.125.0/24
+IP-CIDR,174.35.126.0/24

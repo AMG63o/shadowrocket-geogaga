@@ -32,7 +32,7 @@
     },
     "mansourjabin-cdn-ip-database-geoip": {
       "files": 22,
-      "rules": 14205
+      "rules": 14206
     },
     "runetfreedom-russia-v2ray-rules-dat-geoip": {
       "files": 266,
@@ -46,5 +46,5 @@
   "source_directories": 10,
   "generated_files": 3724,
   "nonempty_files": 3724,
-  "generated_rules": 6391011
+  "generated_rules": 6391012
 }
