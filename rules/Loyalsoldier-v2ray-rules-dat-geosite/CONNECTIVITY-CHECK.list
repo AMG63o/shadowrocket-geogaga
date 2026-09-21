@@ -10,6 +10,7 @@ DOMAIN,networkcheck.kde.org
 DOMAIN,edge-http.microsoft.com
 DOMAIN,www.qualcomm.com
 DOMAIN,connectivity-check.ubuntu.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,kuketz.de
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com

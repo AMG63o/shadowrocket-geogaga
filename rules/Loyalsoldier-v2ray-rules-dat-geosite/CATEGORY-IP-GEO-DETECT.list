@@ -3,18 +3,19 @@
 # Source branch: lists
 # Generated automatically.
 DOMAIN,checkip.amazonaws.com
-DOMAIN,checkip.dyndns.org
 DOMAIN,checkip.dyn.com
+DOMAIN,checkip.dyndns.org
 DOMAIN,checkip.global.api.aws
 DOMAIN,ip-check-perf.radar.cloudflare.com
 DOMAIN,ip.comss.net
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN,myip.dnsomatic.com
+DOMAIN,myip.happ.su
 DOMAIN,whatismyip.akamai.com
-DOMAIN-SUFFIX,l2.io
-DOMAIN-SUFFIX,whoer.net
-DOMAIN-SUFFIX,2ip.ua
+DOMAIN-SUFFIX,jsonip.com
+DOMAIN-SUFFIX,extreme-ip-lookup.com
+DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
 DOMAIN-SUFFIX,addr.tools
@@ -33,8 +34,9 @@ DOMAIN-SUFFIX,criminalip.io
 DOMAIN-SUFFIX,curlmyip.net
 DOMAIN-SUFFIX,dadata.ru
 DOMAIN-SUFFIX,db-ip.com
+DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,dnsleaktest.com
-DOMAIN-SUFFIX,extreme-ip-lookup.com
+DOMAIN-SUFFIX,l2.io
 DOMAIN-SUFFIX,find-my-ip.com
 DOMAIN-SUFFIX,find-my-ip.net
 DOMAIN-SUFFIX,findip.net
@@ -65,11 +67,11 @@ DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,infosniper.net
 DOMAIN-SUFFIX,ip-adress.com
 DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,ip-api.io
+DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,ip-api.ru
 DOMAIN-SUFFIX,ip-check.info
 DOMAIN-SUFFIX,ip-score.com
-DOMAIN-SUFFIX,mon-ip.com
+DOMAIN-SUFFIX,ip.me
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip2c.org
 DOMAIN-SUFFIX,ip2location.com
@@ -106,6 +108,8 @@ DOMAIN-SUFFIX,iplocate.io
 DOMAIN-SUFFIX,iplocation.com
 DOMAIN-SUFFIX,iplocation.io
 DOMAIN-SUFFIX,iplocation.net
+DOMAIN-SUFFIX,iplogger.com
+DOMAIN-SUFFIX,iplogger.org
 DOMAIN-SUFFIX,iplookup.it
 DOMAIN-SUFFIX,ipme.co
 DOMAIN-SUFFIX,ipme.in
@@ -119,10 +123,10 @@ DOMAIN-SUFFIX,ipverify.com
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,ipwhois.io
 DOMAIN-SUFFIX,ipxapi.com
-DOMAIN-SUFFIX,jsonip.com
-DOMAIN-SUFFIX,nodedata.io
+DOMAIN-SUFFIX,2ip.ua
 DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,ip.me
+DOMAIN-SUFFIX,ip-api.io
+DOMAIN-SUFFIX,mon-ip.com
 DOMAIN-SUFFIX,monip.org
 DOMAIN-SUFFIX,my-ip.io
 DOMAIN-SUFFIX,myexternalip.com
@@ -165,7 +169,7 @@ DOMAIN-SUFFIX,myip.wtf
 DOMAIN-SUFFIX,myipaddress.com
 DOMAIN-SUFFIX,myiplookup.com
 DOMAIN-SUFFIX,mylocation.org
-DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,nodedata.io
 DOMAIN-SUFFIX,nossl.sh
 DOMAIN-SUFFIX,osint.sh
 DOMAIN-SUFFIX,proxycheck.io
@@ -194,7 +198,7 @@ DOMAIN-SUFFIX,whatismyv6.com
 DOMAIN-SUFFIX,whatsmyip.com
 DOMAIN-SUFFIX,whatsmyip.org
 DOMAIN-SUFFIX,where-am-i.co
-DOMAIN-SUFFIX,maxmind.com
+DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whoerip.com
 DOMAIN-SUFFIX,whoisxmlapi.com
 DOMAIN-SUFFIX,wieistmeineip.de
