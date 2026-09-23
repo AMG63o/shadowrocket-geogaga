@@ -173,6 +173,7 @@ DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,dreamspark.download.prss.microsoft.com
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
+DOMAIN,drivers.amd.com
 DOMAIN,edge.geo.kaspersky.com
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -606,7 +607,7 @@ DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,jstyjzsg.com
-DOMAIN-SUFFIX,360hapi.com
+DOMAIN-SUFFIX,sdhack.com
 DOMAIN-SUFFIX,001d628661009.beer
 DOMAIN-SUFFIX,001daima.com
 DOMAIN-SUFFIX,001jm.com
@@ -4335,7 +4336,7 @@ DOMAIN-SUFFIX,360gongju.com
 DOMAIN-SUFFIX,360gongkao.com
 DOMAIN-SUFFIX,360gtm.com
 DOMAIN-SUFFIX,360guanai.com
-DOMAIN-SUFFIX,jswmw.com
+DOMAIN-SUFFIX,360hapi.com
 DOMAIN-SUFFIX,360hifi.com
 DOMAIN-SUFFIX,360hitao.com
 DOMAIN-SUFFIX,360hqb.com
@@ -15189,7 +15190,7 @@ DOMAIN-SUFFIX,bcrmtzx.com
 DOMAIN-SUFFIX,bcryo.com
 DOMAIN-SUFFIX,bcsfoong.com
 DOMAIN-SUFFIX,bcshipgo.com
-DOMAIN-SUFFIX,bcsloong.com
+DOMAIN-SUFFIX,jswonderful.com
 DOMAIN-SUFFIX,bcsytv.com
 DOMAIN-SUFFIX,bctdtx.com
 DOMAIN-SUFFIX,bctest.com
@@ -31018,7 +31019,7 @@ DOMAIN-SUFFIX,duoziwang.com
 DOMAIN-SUFFIX,dup2.org
 DOMAIN-SUFFIX,dupingzu.com
 DOMAIN-SUFFIX,duplo-shandong.com
-DOMAIN-SUFFIX,jswonderful.com
+DOMAIN-SUFFIX,dur9.com
 DOMAIN-SUFFIX,duread8.com
 DOMAIN-SUFFIX,durkcell.com
 DOMAIN-SUFFIX,durkeesox.net
@@ -38807,7 +38808,7 @@ DOMAIN-SUFFIX,gogoauc.com
 DOMAIN-SUFFIX,gogocn.com
 DOMAIN-SUFFIX,gogofly.com
 DOMAIN-SUFFIX,gogolinux.com
-DOMAIN-SUFFIX,gogooffer.com
+DOMAIN-SUFFIX,jswjkj.net
 DOMAIN-SUFFIX,gogoqq.com
 DOMAIN-SUFFIX,gogoup.com
 DOMAIN-SUFFIX,goherbalfood.com
@@ -55887,9 +55888,9 @@ DOMAIN-SUFFIX,jsweixiu.com
 DOMAIN-SUFFIX,jswel.com
 DOMAIN-SUFFIX,jswenguang.com
 DOMAIN-SUFFIX,jswfgroup.com
-DOMAIN-SUFFIX,machloop.net
+DOMAIN-SUFFIX,gogooffer.com
 DOMAIN-SUFFIX,00117163.xyz
-DOMAIN-SUFFIX,dur9.com
+DOMAIN-SUFFIX,bcsloong.com
 DOMAIN-SUFFIX,jswspocapi.com
 DOMAIN-SUFFIX,jswsxx.com
 DOMAIN-SUFFIX,jswtc.net
@@ -63576,7 +63577,7 @@ DOMAIN-SUFFIX,machine35.com
 DOMAIN-SUFFIX,machinery4stone.com
 DOMAIN-SUFFIX,machloop.cc
 DOMAIN-SUFFIX,machloop.com
-DOMAIN-SUFFIX,jswjkj.net
+DOMAIN-SUFFIX,machloop.net
 DOMAIN-SUFFIX,machmall.com
 DOMAIN-SUFFIX,machtalk.net
 DOMAIN-SUFFIX,macjb.com
@@ -79025,7 +79026,7 @@ DOMAIN-SUFFIX,sdgxzn.com
 DOMAIN-SUFFIX,sdgykg.com
 DOMAIN-SUFFIX,sdgyslfz.com
 DOMAIN-SUFFIX,sdgzkg.com
-DOMAIN-SUFFIX,sdhack.com
+DOMAIN-SUFFIX,jswmw.com
 DOMAIN-SUFFIX,sdhaike.com
 DOMAIN-SUFFIX,sdhbcl.com
 DOMAIN-SUFFIX,sdhdssd.com
@@ -82656,6 +82657,7 @@ DOMAIN-SUFFIX,sjez.com
 DOMAIN-SUFFIX,sjf029.com
 DOMAIN-SUFFIX,sjfcdn.com
 DOMAIN-SUFFIX,sjfh168.com
+DOMAIN-SUFFIX,sjfls6.com
 DOMAIN-SUFFIX,sjfpro.com
 DOMAIN-SUFFIX,sjfzxm.com
 DOMAIN-SUFFIX,sjg8.com
