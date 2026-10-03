@@ -2,6 +2,7 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/DanielLavrushin-b4geoip-geoip/FASTLY.LST
 # Source branch: lists
 # Generated automatically.
+IP-CIDR,16.5.61.0/24
 IP-CIDR,23.154.64.0/24
 IP-CIDR,23.185.0.0/24
 IP-CIDR,23.235.32.0/20
