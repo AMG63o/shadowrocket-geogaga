@@ -4,7 +4,7 @@
   "sources": {
     "DanielLavrushin-b4geoip-geoip": {
       "files": 309,
-      "rules": 1221105
+      "rules": 1221045
     },
     "Loyalsoldier-v2ray-rules-dat-geosite": {
       "files": 1549,
@@ -12,11 +12,11 @@
     },
     "PentiumB-CDN-RuleSet-geoip": {
       "files": 7,
-      "rules": 37907
+      "rules": 37801
     },
     "geogaga-client-flavor-geoip": {
       "files": 2,
-      "rules": 86367
+      "rules": 86302
     },
     "geogaga-client-flavor-geosite": {
       "files": 3,
@@ -32,11 +32,11 @@
     },
     "mansourjabin-cdn-ip-database-geoip": {
       "files": 22,
-      "rules": 14131
+      "rules": 14125
     },
     "runetfreedom-russia-v2ray-rules-dat-geoip": {
       "files": 266,
-      "rules": 1199736
+      "rules": 1199739
     },
     "runetfreedom-russia-v2ray-rules-dat-geosite": {
       "files": 1543,
@@ -46,5 +46,5 @@
   "source_directories": 10,
   "generated_files": 3727,
   "nonempty_files": 3727,
-  "generated_rules": 6351409
+  "generated_rules": 6351175
 }
