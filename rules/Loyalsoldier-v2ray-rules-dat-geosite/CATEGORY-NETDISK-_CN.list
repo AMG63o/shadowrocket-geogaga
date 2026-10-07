@@ -3,8 +3,8 @@
 # Source branch: lists
 # Generated automatically.
 DOMAIN,paper-attachments.s3.amazonaws.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,dropboxmail.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropbox.tech
 DOMAIN-SUFFIX,dropboxapi.com
@@ -12,20 +12,24 @@ DOMAIN-SUFFIX,dropboxbusiness.com
 DOMAIN-SUFFIX,dropboxcaptcha.com
 DOMAIN-SUFFIX,dropboxforum.com
 DOMAIN-SUFFIX,dropboxforums.com
-DOMAIN-SUFFIX,dropboxinsiders.com
-DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,dropboxpartners.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,megaad.nz
+DOMAIN-SUFFIX,megapay.nz
+DOMAIN-SUFFIX,megas4.com
+DOMAIN-SUFFIX,transfer.it
 DOMAIN-SUFFIX,usersdrive.com
+DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,db.tt
-DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,dropboxinsiders.com
 DOMAIN-SUFFIX,onedrive.co
+DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.eu
 DOMAIN-SUFFIX,onedrive.net
 DOMAIN-SUFFIX,onedrive.org
