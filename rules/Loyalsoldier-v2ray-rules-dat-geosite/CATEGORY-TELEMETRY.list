@@ -1,0 +1,10 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CATEGORY-TELEMETRY.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com

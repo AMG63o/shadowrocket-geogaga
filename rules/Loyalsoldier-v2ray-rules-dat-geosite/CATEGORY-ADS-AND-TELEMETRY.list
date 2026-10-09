@@ -1,5 +1,5 @@
 # GeoGaGa -> Shadowrocket RULE-SET
-# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CATEGORY-ADS.LST
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CATEGORY-ADS-AND-TELEMETRY.LST
 # Source branch: lists
 # Generated automatically.
 DOMAIN,logs.ads.vungle.com
@@ -845,3 +845,9 @@ DOMAIN-SUFFIX,qpb.sohu.com
 DOMAIN-SUFFIX,qpb1.sohu.com
 DOMAIN-SUFFIX,reke.at.sohu.com
 DOMAIN-SUFFIX,track.sohu.com
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
