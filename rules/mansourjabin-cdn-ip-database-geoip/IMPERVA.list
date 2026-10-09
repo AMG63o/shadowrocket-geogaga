@@ -1,0 +1,16 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/mansourjabin-cdn-ip-database-geoip/IMPERVA.LST
+# Source branch: lists
+# Generated automatically.
+IP-CIDR,103.28.248.0/22
+IP-CIDR,107.154.0.0/16
+IP-CIDR,131.125.128.0/17
+IP-CIDR,149.126.72.0/21
+IP-CIDR,185.11.124.0/22
+IP-CIDR,192.230.64.0/18
+IP-CIDR,198.143.32.0/19
+IP-CIDR,199.83.128.0/21
+IP-CIDR,45.223.0.0/16
+IP-CIDR,45.60.0.0/16
+IP-CIDR,45.64.64.0/22
+IP-CIDR6,2a02:e980::/29
