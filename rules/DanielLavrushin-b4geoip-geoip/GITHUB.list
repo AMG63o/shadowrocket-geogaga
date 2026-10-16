@@ -2,6 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/DanielLavrushin-b4geoip-geoip/GITHUB.LST
 # Source branch: lists
 # Generated automatically.
+IP-CIDR,3.41.210.0/24
+IP-CIDR,3.42.157.0/24
 IP-CIDR,3.219.87.128/32
 IP-CIDR,4.147.189.192/28
 IP-CIDR,4.148.0.0/14
