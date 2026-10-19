@@ -59,7 +59,6 @@ DOMAIN,mscrl.microsoft.com
 DOMAIN,ocsp.microsoft.com
 DOMAIN,oneocsp.microsoft.com
 DOMAIN,www.microsoft.com
-DOMAIN,flightsimulator.azureedge.net
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
@@ -73,7 +72,7 @@ DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,microsoft
 DOMAIN-SUFFIX,xbox.eu
-DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,botframework.com
 DOMAIN-SUFFIX,microsoft.ch
 DOMAIN-SUFFIX,microsoft.cl
 DOMAIN-SUFFIX,microsoft.com
@@ -224,7 +223,7 @@ DOMAIN-SUFFIX,msft.info
 DOMAIN-SUFFIX,msft.net
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftauthimages.net
-DOMAIN-SUFFIX,ghe.com
+DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftnet.org
@@ -239,7 +238,7 @@ DOMAIN-SUFFIX,mymicrosoft.com
 DOMAIN-SUFFIX,nextechafrica.net
 DOMAIN-SUFFIX,nxta.org
 DOMAIN-SUFFIX,o365weve-dev.com
-DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
@@ -265,7 +264,7 @@ DOMAIN-SUFFIX,s-msedge.net
 DOMAIN-SUFFIX,s-msft.com
 DOMAIN-SUFFIX,s-msn.com
 DOMAIN-SUFFIX,sfbassets.com
-DOMAIN-SUFFIX,sfbassets.net
+DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
@@ -312,14 +311,14 @@ DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,atom.io
-DOMAIN-SUFFIX,dependabot.com
-DOMAIN-SUFFIX,gh.io
-DOMAIN-SUFFIX,o365weve-ppe.com
+DOMAIN-SUFFIX,microsoftreactor.org
 DOMAIN-SUFFIX,microsoft.cat
-DOMAIN-SUFFIX,github.career
+DOMAIN-SUFFIX,sfbassets.net
+DOMAIN-SUFFIX,ghe.com
+DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
@@ -347,7 +346,7 @@ DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,apisof.net
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,blazor.net
-DOMAIN-SUFFIX,botframework.com
+DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,codethemicrobit.com
 DOMAIN-SUFFIX,devopsassessment.net
 DOMAIN-SUFFIX,dot.net
@@ -361,7 +360,7 @@ DOMAIN-SUFFIX,microsoftgamestack.com
 DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
 DOMAIN-SUFFIX,microsoftreactor.info
 DOMAIN-SUFFIX,microsoftreactor.net
-DOMAIN-SUFFIX,microsoftreactor.org
+DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,microsoftsilverlight.com
 DOMAIN-SUFFIX,microsoftsilverlight.net
 DOMAIN-SUFFIX,microsoftsilverlight.org
@@ -450,8 +449,6 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com

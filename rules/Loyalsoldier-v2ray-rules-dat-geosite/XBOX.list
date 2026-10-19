@@ -2,7 +2,6 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/XBOX.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN,flightsimulator.azureedge.net
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,gamepass.com
@@ -28,8 +27,6 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
