@@ -7,8 +7,8 @@
       "rules": 1236580
     },
     "Loyalsoldier-v2ray-rules-dat-geosite": {
-      "files": 1555,
-      "rules": 529348
+      "files": 1556,
+      "rules": 530638
     },
     "PentiumB-CDN-RuleSet-geoip": {
       "files": 7,
@@ -44,7 +44,7 @@
     }
   },
   "source_directories": 10,
-  "generated_files": 3735,
-  "nonempty_files": 3735,
-  "generated_rules": 6389236
+  "generated_files": 3736,
+  "nonempty_files": 3736,
+  "generated_rules": 6390526
 }
