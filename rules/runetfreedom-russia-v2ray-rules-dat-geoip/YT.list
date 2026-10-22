@@ -2,7 +2,7 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geoip/YT.LST
 # Source branch: lists
 # Generated automatically.
-IP-CIDR,5.57.96.0/20
+IP-CIDR,5.57.96.0/21
 IP-CIDR,5.102.72.0/24
 IP-CIDR,41.242.116.0/22
 IP-CIDR,77.143.87.0/24
