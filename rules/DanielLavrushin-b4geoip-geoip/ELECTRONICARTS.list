@@ -3,6 +3,7 @@
 # Source branch: lists
 # Generated automatically.
 IP-CIDR,159.153.0.0/20
+IP-CIDR,159.153.52.0/24
 IP-CIDR,159.153.60.0/23
 IP-CIDR,159.153.88.0/23
 IP-CIDR,159.153.103.0/24
