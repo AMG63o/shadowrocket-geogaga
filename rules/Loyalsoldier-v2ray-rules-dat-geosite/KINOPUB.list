@@ -2,8 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/KINOPUB.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,cdn-service.space
-DOMAIN-SUFFIX,cdn2cdn.com
+DOMAIN-SUFFIX,teleos.club
+DOMAIN-SUFFIX,support-kp.com
 DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,kpdl.link
 DOMAIN-SUFFIX,ahc.ovh
@@ -13,10 +13,11 @@ DOMAIN-SUFFIX,mos-gorsud.co
 DOMAIN-SUFFIX,kino.watch
 DOMAIN-SUFFIX,smarttvcdn.online
 DOMAIN-SUFFIX,pushbr.com
-DOMAIN-SUFFIX,teleos.club
+DOMAIN-SUFFIX,srvkp.com
 DOMAIN-SUFFIX,kino.pub
-DOMAIN-SUFFIX,support-kp.com
+DOMAIN-SUFFIX,cdn-service.space
+DOMAIN-SUFFIX,cdn2cdn.com
 DOMAIN-SUFFIX,cdn2site.com
-DOMAIN-SUFFIX,api.alador.space
 DOMAIN-SUFFIX,m.alador.space
+DOMAIN-SUFFIX,api.alador.space
 DOMAIN-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

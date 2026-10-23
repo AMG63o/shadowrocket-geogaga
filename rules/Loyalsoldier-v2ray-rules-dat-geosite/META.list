@@ -10,10 +10,6 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,muse.ai
-DOMAIN-SUFFIX,fbmessenger.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,nbabot.net
 DOMAIN-SUFFIX,binoculus.com
 DOMAIN-SUFFIX,buyoculus.com
 DOMAIN-SUFFIX,ocul.us
@@ -552,6 +548,10 @@ DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,wwwinstagram.com
+DOMAIN-SUFFIX,fbmessenger.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,nbabot.net
 DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,pixel.facebook.com
