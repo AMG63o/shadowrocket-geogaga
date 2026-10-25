@@ -38,6 +38,7 @@ DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement-cn.com
 DOMAIN,app-measurement.com
 DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,app.moegirl.org.cn
 DOMAIN,appldnld.apple.com
 DOMAIN,appldnld.g.aaplimg.com
 DOMAIN,appleid.cdn-apple.com
@@ -486,6 +487,7 @@ DOMAIN,statics.teams.cdn.office.net
 DOMAIN,status.alibabacloud.com
 DOMAIN,stocks-sparkline-lb.apple.com.akadns.net
 DOMAIN,stocks-sparkline.apple.com
+DOMAIN,storage.moegirl.org.cn
 DOMAIN,store.apple.com
 DOMAIN,store.apple.com.edgekey.net
 DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
@@ -606,8 +608,8 @@ DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,jtjms-mx.com
-DOMAIN-SUFFIX,aqjx.com
+DOMAIN-SUFFIX,jtjms-br.com
+DOMAIN-SUFFIX,ccpitbj.org
 DOMAIN-SUFFIX,002.xin
 DOMAIN-SUFFIX,002049.com
 DOMAIN-SUFFIX,00257.com
@@ -12744,7 +12746,7 @@ DOMAIN-SUFFIX,aqhospital.com
 DOMAIN-SUFFIX,aqidb.org
 DOMAIN-SUFFIX,aqioo.com
 DOMAIN-SUFFIX,aqisite.com
-DOMAIN-SUFFIX,jttzsy.com
+DOMAIN-SUFFIX,aqjx.com
 DOMAIN-SUFFIX,aqjz.net
 DOMAIN-SUFFIX,aqlife.com
 DOMAIN-SUFFIX,aqniu.com
@@ -15465,7 +15467,7 @@ DOMAIN-SUFFIX,bgi-graphene.com
 DOMAIN-SUFFIX,bgi.com
 DOMAIN-SUFFIX,bgic.com
 DOMAIN-SUFFIX,bgici.com
-DOMAIN-SUFFIX,bgigc.com
+DOMAIN-SUFFIX,jttv.net
 DOMAIN-SUFFIX,bgim6.com
 DOMAIN-SUFFIX,bgk100.com
 DOMAIN-SUFFIX,bgkj.pro
@@ -19202,7 +19204,7 @@ DOMAIN-SUFFIX,ccpit-sichuan.org
 DOMAIN-SUFFIX,ccpit-sx.org
 DOMAIN-SUFFIX,ccpit-tga.org
 DOMAIN-SUFFIX,ccpit.org
-DOMAIN-SUFFIX,ccpitbj.org
+DOMAIN-SUFFIX,jtsp98.com
 DOMAIN-SUFFIX,ccpitbm.org
 DOMAIN-SUFFIX,ccpitbuild.org
 DOMAIN-SUFFIX,ccpitcft.com
@@ -19682,6 +19684,7 @@ DOMAIN-SUFFIX,cdqszz.com
 DOMAIN-SUFFIX,cdqz.net
 DOMAIN-SUFFIX,cdrbs.net
 DOMAIN-SUFFIX,cdrcb.com
+DOMAIN-SUFFIX,cdrcbank.com
 DOMAIN-SUFFIX,cdren.net
 DOMAIN-SUFFIX,cdrich.com
 DOMAIN-SUFFIX,cdrjob.com
@@ -22575,7 +22578,7 @@ DOMAIN-SUFFIX,cihua.net
 DOMAIN-SUFFIX,ciiccq.com
 DOMAIN-SUFFIX,ciicgat.com
 DOMAIN-SUFFIX,ciichr.com
-DOMAIN-SUFFIX,jtv123.com
+DOMAIN-SUFFIX,ciicjs.com
 DOMAIN-SUFFIX,ciicsh.com
 DOMAIN-SUFFIX,ciie.org
 DOMAIN-SUFFIX,ciif-expo.com
@@ -25547,6 +25550,7 @@ DOMAIN-SUFFIX,cqyxzz.com
 DOMAIN-SUFFIX,cqyygz.com
 DOMAIN-SUFFIX,cqyyjc.com
 DOMAIN-SUFFIX,cqyysx.com
+DOMAIN-SUFFIX,cqyyxc.com
 DOMAIN-SUFFIX,cqyyzy.com
 DOMAIN-SUFFIX,cqyznews.com
 DOMAIN-SUFFIX,cqzbcg.com
@@ -49056,6 +49060,7 @@ DOMAIN-SUFFIX,ibaitiao.com
 DOMAIN-SUFFIX,ibaizhu.com
 DOMAIN-SUFFIX,ibanana.club
 DOMAIN-SUFFIX,ibanbu.com
+DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,ibanggo.com
 DOMAIN-SUFFIX,ibangkf.com
 DOMAIN-SUFFIX,ibangtiao.com
@@ -51127,6 +51132,7 @@ DOMAIN-SUFFIX,ishuw.com
 DOMAIN-SUFFIX,isi-gf.com
 DOMAIN-SUFFIX,isiabio.com
 DOMAIN-SUFFIX,isign.ren
+DOMAIN-SUFFIX,isigning.com
 DOMAIN-SUFFIX,isigu.com
 DOMAIN-SUFFIX,isilent.me
 DOMAIN-SUFFIX,isilicontech.com
@@ -55394,9 +55400,9 @@ DOMAIN-SUFFIX,jtgzfw.com
 DOMAIN-SUFFIX,jtj-kr.com
 DOMAIN-SUFFIX,jtjiaoyu.com
 DOMAIN-SUFFIX,jtjms-ae.com
-DOMAIN-SUFFIX,jtjms-br.com
-DOMAIN-SUFFIX,jtjms-eg.com
 DOMAIN-SUFFIX,0.zone
+DOMAIN-SUFFIX,jtjms-eg.com
+DOMAIN-SUFFIX,jtjms-mx.com
 DOMAIN-SUFFIX,jtjms-sa.com
 DOMAIN-SUFFIX,jtjob.net
 DOMAIN-SUFFIX,jtjr99.com
@@ -55418,11 +55424,11 @@ DOMAIN-SUFFIX,jtp123.com
 DOMAIN-SUFFIX,jtpipeline.com
 DOMAIN-SUFFIX,jtrauto.com
 DOMAIN-SUFFIX,jtrobots.com
-DOMAIN-SUFFIX,jtso.net
-DOMAIN-SUFFIX,jtsp98.com
-DOMAIN-SUFFIX,uucall.com
+DOMAIN-SUFFIX,mtcn.net
 DOMAIN-SUFFIX,001win5.cc
-DOMAIN-SUFFIX,ciicjs.com
+DOMAIN-SUFFIX,bgigc.com
+DOMAIN-SUFFIX,jttzsy.com
+DOMAIN-SUFFIX,jtv123.com
 DOMAIN-SUFFIX,jtwmall.com
 DOMAIN-SUFFIX,jtxa.net
 DOMAIN-SUFFIX,jtxmtxy.com
@@ -65504,7 +65510,6 @@ DOMAIN-SUFFIX,moeelf.com
 DOMAIN-SUFFIX,moefactory.com
 DOMAIN-SUFFIX,moefantasy.com
 DOMAIN-SUFFIX,moefou.org
-DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,moegirl.tw
 DOMAIN-SUFFIX,moehot.com
 DOMAIN-SUFFIX,moehu.org
@@ -66038,7 +66043,7 @@ DOMAIN-SUFFIX,mtaokj.com
 DOMAIN-SUFFIX,mtavip.com
 DOMAIN-SUFFIX,mtblj.com
 DOMAIN-SUFFIX,mtchome.com
-DOMAIN-SUFFIX,mtcn.net
+DOMAIN-SUFFIX,jtso.net
 DOMAIN-SUFFIX,mtcnsoft.com
 DOMAIN-SUFFIX,mtcsys.com
 DOMAIN-SUFFIX,mtcxsw.com
@@ -66937,6 +66942,7 @@ DOMAIN-SUFFIX,nanningyouhua.com
 DOMAIN-SUFFIX,nannjlnk.com
 DOMAIN-SUFFIX,nanobody-biolab.com
 DOMAIN-SUFFIX,nanochrom.com
+DOMAIN-SUFFIX,nanocorechip.com
 DOMAIN-SUFFIX,nanoeast.net
 DOMAIN-SUFFIX,nanoer.net
 DOMAIN-SUFFIX,nanoinglobal.com
@@ -90949,7 +90955,7 @@ DOMAIN-SUFFIX,uu66.com
 DOMAIN-SUFFIX,uu661.com
 DOMAIN-SUFFIX,uu89.com
 DOMAIN-SUFFIX,uu898.com
-DOMAIN-SUFFIX,jttv.net
+DOMAIN-SUFFIX,uucall.com
 DOMAIN-SUFFIX,uucc.cc
 DOMAIN-SUFFIX,uucin.com
 DOMAIN-SUFFIX,uucl.vip
