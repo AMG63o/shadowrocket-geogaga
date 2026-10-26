@@ -7,8 +7,8 @@
       "rules": 1236441
     },
     "Loyalsoldier-v2ray-rules-dat-geosite": {
-      "files": 1559,
-      "rules": 531441
+      "files": 1560,
+      "rules": 524429
     },
     "PentiumB-CDN-RuleSet-geoip": {
       "files": 7,
@@ -20,7 +20,7 @@
     },
     "geogaga-client-flavor-geosite": {
       "files": 3,
-      "rules": 78796
+      "rules": 78790
     },
     "hydraponique-roscomvpn-geoip-geoip": {
       "files": 3,
@@ -44,7 +44,7 @@
     }
   },
   "source_directories": 10,
-  "generated_files": 3739,
-  "nonempty_files": 3739,
-  "generated_rules": 6391091
+  "generated_files": 3740,
+  "nonempty_files": 3740,
+  "generated_rules": 6384073
 }

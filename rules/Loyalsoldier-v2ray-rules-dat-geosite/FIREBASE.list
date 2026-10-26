@@ -11,8 +11,6 @@ DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
 DOMAIN,firebasedynamiclinks.googleapis.com
 DOMAIN,firebaseinappmessaging.googleapis.com
 DOMAIN,firebaseinstallations.googleapis.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN-SUFFIX,crashlytics.com
@@ -24,4 +22,6 @@ DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,firebase.google.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
 DOMAIN,update.crashlytics.com
