@@ -20,14 +20,14 @@ https://github.com/bratishkadrugoimamysynishka/geogaga-client-flavor/tree/lists
 
 Каталоги источника сохраняются один в один внутри `rules/`, а каждое `.lst` преобразуется в `.list`.
 
-Например:
+Например, в текущей структуре репозитория:
 
 ```text
 Источник:
-Client-Flavor-geosite/GEOGAGA-PROXY.lst
+geogaga-client-flavor-geosite/GEOGAGA-PROXY.lst
 
 Результат:
-rules/Client-Flavor-geosite/GEOGAGA-PROXY.list
+rules/geogaga-client-flavor-geosite/GEOGAGA-PROXY.list
 ```
 
 И аналогично для всех остальных источников и файлов.
@@ -47,16 +47,31 @@ https://github.com/misha-tgshv/shadowrocket-configuration-file
 
 Рекомендуемая схема: базовые правила оставлять в `sr_ru_geo.conf`, а свои дополнительные правила и подключение необходимых GeoGaGa `RULE-SET` добавлять в `sr_ru_extended.conf`. Это позволяет сохранять базовую конфигурацию отдельно и не смешивать её с пользовательскими правилами.
 
-Любой сгенерированный `.list` можно подключать как удалённый `RULE-SET`. Например:
+Любой сгенерированный `.list` можно подключать как удалённый `RULE-SET`. Ниже — готовый пример для пяти основных наборов GeoGaGa: три доменных списка и два IP-списка.
+
+### Готовый фрагмент конфигурации
+
+Добавь блок в секцию `[Rule]` своей конфигурации или в пользовательский файл `sr_ru_extended.conf`:
 
 ```ini
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/Client-Flavor-geosite/GEOGAGA-BLOCK.list,REJECT
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/Client-Flavor-geosite/GEOGAGA-DIRECT.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/Client-Flavor-geosite/GEOGAGA-PROXY.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geogaga-client-flavor-geosite/GEOGAGA-BLOCK.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geogaga-client-flavor-geosite/GEOGAGA-DIRECT.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geogaga-client-flavor-geosite/GEOGAGA-PROXY.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geogaga-client-flavor-geoip/GEOGAGA-DIRECT.list,DIRECT,no-resolve
+RULE-SET,https://raw.githubusercontent.com/AMG63o/shadowrocket-geogaga/main/rules/geogaga-client-flavor-geoip/GEOGAGA-PROXY.list,PROXY,no-resolve
+FINAL,PROXY
 ```
 
-`PROXY` замени на название своей политики в Shadowrocket.
+**Политики:**
+- `REJECT` — отклонять соединения, совпавшие с набором блокировки.
+- `DIRECT` — подключаться напрямую.
+- `PROXY` — использовать прокси-политику. Если в твоём конфиге она называется иначе, замени `PROXY` на фактическое имя группы/политики.
+- `no-resolve` для GeoIP-правил не позволяет выполнять DNS-разрешение домена только ради проверки IP-правила.
+
+**Порядок правил важен:** Shadowrocket применяет первое совпавшее правило. Размещай эти строки с учётом уже существующих правил в своей конфигурации, а `FINAL,PROXY` оставляй в конце секции `[Rule]`. Если в конфиге уже есть секция `[Rule]`, не создавай вторую — добавь строки в существующую секцию.
+
+Списки автоматически обновляются в этом репозитории, поэтому после подключения удалённых `RULE-SET` вручную обновлять их содержимое не нужно.
 
 Полный список актуальных наборов и количества правил находится в `rules/meta.json`.
 
