@@ -469,7 +469,9 @@ DOMAIN,seed.siri.apple.com
 DOMAIN,sequoia.apple.com
 DOMAIN,service.urchin.com
 DOMAIN,sf-api-token-service.itunes.apple.com
+DOMAIN,sh-pod1-smp-device.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
+DOMAIN,sh-pod3-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,shell.cdn.office.net
 DOMAIN,smp-device-content.apple.com
@@ -609,7 +611,7 @@ DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,jtjms-ae.com
-DOMAIN-SUFFIX,yinongtao.com
+DOMAIN-SUFFIX,ccpitbj.org
 DOMAIN-SUFFIX,002.xin
 DOMAIN-SUFFIX,002049.com
 DOMAIN-SUFFIX,00257.com
@@ -15467,7 +15469,7 @@ DOMAIN-SUFFIX,bgi-graphene.com
 DOMAIN-SUFFIX,bgi.com
 DOMAIN-SUFFIX,bgic.com
 DOMAIN-SUFFIX,bgici.com
-DOMAIN-SUFFIX,bgigc.com
+DOMAIN-SUFFIX,jtsp98.com
 DOMAIN-SUFFIX,bgim6.com
 DOMAIN-SUFFIX,bgk100.com
 DOMAIN-SUFFIX,bgkj.pro
@@ -16509,7 +16511,7 @@ DOMAIN-SUFFIX,bjppa.com
 DOMAIN-SUFFIX,bjpryk.com
 DOMAIN-SUFFIX,bjqh.org
 DOMAIN-SUFFIX,bjqichezl.com
-DOMAIN-SUFFIX,jtsp98.com
+DOMAIN-SUFFIX,bjqingyang.com
 DOMAIN-SUFFIX,bjqlg.com
 DOMAIN-SUFFIX,bjqtbase.com
 DOMAIN-SUFFIX,bjqtfifthbase.com
@@ -19204,7 +19206,7 @@ DOMAIN-SUFFIX,ccpit-sichuan.org
 DOMAIN-SUFFIX,ccpit-sx.org
 DOMAIN-SUFFIX,ccpit-tga.org
 DOMAIN-SUFFIX,ccpit.org
-DOMAIN-SUFFIX,ccpitbj.org
+DOMAIN-SUFFIX,jtso.net
 DOMAIN-SUFFIX,ccpitbm.org
 DOMAIN-SUFFIX,ccpitbuild.org
 DOMAIN-SUFFIX,ccpitcft.com
@@ -55424,11 +55426,11 @@ DOMAIN-SUFFIX,jto8.com
 DOMAIN-SUFFIX,jtp123.com
 DOMAIN-SUFFIX,jtpipeline.com
 DOMAIN-SUFFIX,jtrauto.com
-DOMAIN-SUFFIX,jtrobots.com
-DOMAIN-SUFFIX,jtso.net
-DOMAIN-SUFFIX,bjqingyang.com
+DOMAIN-SUFFIX,mtcn.net
 DOMAIN-SUFFIX,001win5.cc
-DOMAIN-SUFFIX,ugdtimg.com
+DOMAIN-SUFFIX,bgigc.com
+DOMAIN-SUFFIX,jttv.net
+DOMAIN-SUFFIX,jttzsy.com
 DOMAIN-SUFFIX,jtv123.com
 DOMAIN-SUFFIX,jtwmall.com
 DOMAIN-SUFFIX,jtxa.net
@@ -61415,8 +61417,6 @@ DOMAIN-SUFFIX,long7.com
 DOMAIN-SUFFIX,longanlaw.com
 DOMAIN-SUFFIX,longau.com
 DOMAIN-SUFFIX,longbenren.com
-DOMAIN-SUFFIX,longbridgeapp.com
-DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longcai.com
 DOMAIN-SUFFIX,longcai027.com
 DOMAIN-SUFFIX,longcat.chat
@@ -66045,7 +66045,7 @@ DOMAIN-SUFFIX,mtaokj.com
 DOMAIN-SUFFIX,mtavip.com
 DOMAIN-SUFFIX,mtblj.com
 DOMAIN-SUFFIX,mtchome.com
-DOMAIN-SUFFIX,mtcn.net
+DOMAIN-SUFFIX,jtrobots.com
 DOMAIN-SUFFIX,mtcnsoft.com
 DOMAIN-SUFFIX,mtcsys.com
 DOMAIN-SUFFIX,mtcxsw.com
@@ -90331,7 +90331,7 @@ DOMAIN-SUFFIX,ugc-up-dom.com
 DOMAIN-SUFFIX,ugc-up-dom.net
 DOMAIN-SUFFIX,ugdesk.com
 DOMAIN-SUFFIX,ugdocker.link
-DOMAIN-SUFFIX,jttzsy.com
+DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,ugediao.com
 DOMAIN-SUFFIX,uggame.com
 DOMAIN-SUFFIX,uggd.com
@@ -102337,7 +102337,7 @@ DOMAIN-SUFFIX,yinmakeji.com
 DOMAIN-SUFFIX,yinmaojx.com
 DOMAIN-SUFFIX,yinmishu.com
 DOMAIN-SUFFIX,yinning.vip
-DOMAIN-SUFFIX,jttv.net
+DOMAIN-SUFFIX,yinongtao.com
 DOMAIN-SUFFIX,yinpiao.com
 DOMAIN-SUFFIX,yinqiao.com
 DOMAIN-SUFFIX,yinqiaogroup.com

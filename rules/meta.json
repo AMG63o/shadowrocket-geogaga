@@ -8,7 +8,7 @@
     },
     "Loyalsoldier-v2ray-rules-dat-geosite": {
       "files": 1560,
-      "rules": 524429
+      "rules": 524824
     },
     "PentiumB-CDN-RuleSet-geoip": {
       "files": 7,
@@ -32,7 +32,7 @@
     },
     "mansourjabin-cdn-ip-database-geoip": {
       "files": 22,
-      "rules": 14137
+      "rules": 14134
     },
     "runetfreedom-russia-v2ray-rules-dat-geoip": {
       "files": 266,
@@ -46,5 +46,5 @@
   "source_directories": 10,
   "generated_files": 3740,
   "nonempty_files": 3740,
-  "generated_rules": 6383940
+  "generated_rules": 6384332
 }
