@@ -2,8 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/TENCENT-GAMES.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,videoxiaoyouxi.com
-DOMAIN-SUFFIX,nagcloudcs.com
+DOMAIN-SUFFIX,wcbygame.com
+DOMAIN-SUFFIX,pubghelper.com
 DOMAIN-SUFFIX,gameloop.com
 DOMAIN-SUFFIX,gcloudcs.com
 DOMAIN-SUFFIX,gcloudcstest.com
@@ -11,9 +11,8 @@ DOMAIN-SUFFIX,gcloudcstestonly.com
 DOMAIN-SUFFIX,gclouddolphin.com
 DOMAIN-SUFFIX,gcloudsdk.com
 DOMAIN-SUFFIX,gcloudsvcs.com
-DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,goto-game.com
-DOMAIN-SUFFIX,yxdmgame.com
+DOMAIN-SUFFIX,goto-game.mobi
 DOMAIN-SUFFIX,goto-game.org
 DOMAIN-SUFFIX,happyhlddz.com
 DOMAIN-SUFFIX,hdyxgame.com
@@ -29,11 +28,11 @@ DOMAIN-SUFFIX,mahjongcup.com
 DOMAIN-SUFFIX,mahjongcup.net
 DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,midasbuy.com
-DOMAIN-SUFFIX,wcbygame.com
-DOMAIN-SUFFIX,proximabeta.com
-DOMAIN-SUFFIX,pubghelper.com
+DOMAIN-SUFFIX,nagcloudcs.com
+DOMAIN-SUFFIX,yximg.cn
+DOMAIN-SUFFIX,yxdmgame.com
 DOMAIN-SUFFIX,pubgno1.cn
-DOMAIN-SUFFIX,pubgtool.com
+DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,qqgameapp.com
 DOMAIN-SUFFIX,rmwxgame.com
 DOMAIN-SUFFIX,skydweller.cn
@@ -44,10 +43,10 @@ DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
 DOMAIN-SUFFIX,timibase.com
-DOMAIN-SUFFIX,bcfmglobal.com
+DOMAIN-SUFFIX,videoxiaoyouxi.com
+DOMAIN-SUFFIX,pubgtool.com
 DOMAIN-SUFFIX,gameitop.com
-DOMAIN-SUFFIX,goto-game.mobi
-DOMAIN-SUFFIX,yximg.cn
+DOMAIN-SUFFIX,proximabeta.com
 DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,zcjbgame.com
@@ -69,7 +68,7 @@ DOMAIN-SUFFIX,realcybertron.com
 DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,tcfmglobal.com
-DOMAIN-SUFFIX,battlecare.net
+DOMAIN-SUFFIX,bcfmglobal.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,codm.com
 DOMAIN-SUFFIX,brawlstars.cn

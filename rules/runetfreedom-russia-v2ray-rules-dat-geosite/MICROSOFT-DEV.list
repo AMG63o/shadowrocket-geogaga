@@ -75,4 +75,6 @@ DOMAIN-SUFFIX,visualstudio.co.uk
 DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
+DOMAIN,dc.services.visualstudio.com
 DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,rt.services.visualstudio.com

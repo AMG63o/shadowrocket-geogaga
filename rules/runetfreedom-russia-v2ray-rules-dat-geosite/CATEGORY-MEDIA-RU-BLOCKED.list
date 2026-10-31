@@ -2,7 +2,7 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CATEGORY-MEDIA-RU-BLOCKED.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,ovdinfo.legal
+DOMAIN-SUFFIX,ozodi.org
 DOMAIN-SUFFIX,fn-volga.ru
 DOMAIN-SUFFIX,agents.media
 DOMAIN-SUFFIX,arbatmedia.kz
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,ej.ru
 DOMAIN-SUFFIX,ekhokavkaza.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,euroradio.fm
-DOMAIN-SUFFIX,ozodi.org
+DOMAIN-SUFFIX,ovdinfo.legal
 DOMAIN-SUFFIX,fonge.org
 DOMAIN-SUFFIX,fortanga.org
 DOMAIN-SUFFIX,freeburyatia.org
@@ -58,26 +58,27 @@ DOMAIN-SUFFIX,mediazona.ca
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,metla.press
 DOMAIN-SUFFIX,mignews.com
+DOMAIN-SUFFIX,navalny.com
 DOMAIN-SUFFIX,newizv.ru
 DOMAIN-SUFFIX,newtimes.ru
 DOMAIN-SUFFIX,novaya.media
-DOMAIN-SUFFIX,paperpaper.ru
+DOMAIN-SUFFIX,novayagazeta.eu
 DOMAIN-SUFFIX,novayagazeta.ru
 DOMAIN-SUFFIX,openmedia.io
 DOMAIN-SUFFIX,opposition-news.com
-DOMAIN-SUFFIX,ovd.info
-DOMAIN-SUFFIX,prosleduet.media
+DOMAIN-SUFFIX,svtv.org
 DOMAIN-SUFFIX,activatica.org
-DOMAIN-SUFFIX,novayagazeta.eu
+DOMAIN-SUFFIX,vot-tak.tv
+DOMAIN-SUFFIX,paperpaper.ru
 DOMAIN-SUFFIX,poligon.media
 DOMAIN-SUFFIX,polit.ru
 DOMAIN-SUFFIX,wonderzine.com
 DOMAIN-SUFFIX,pravda.com
 DOMAIN-SUFFIX,votvot.tv
 DOMAIN-SUFFIX,proekt.media
-DOMAIN-SUFFIX,24.kg
+DOMAIN-SUFFIX,prosleduet.media
 DOMAIN-SUFFIX,provereno.media
-DOMAIN-SUFFIX,vot-tak.tv
+DOMAIN-SUFFIX,24.kg
 DOMAIN-SUFFIX,radiosakharov.org
 DOMAIN-SUFFIX,rbc.ua
 DOMAIN-SUFFIX,realist.online
@@ -106,7 +107,7 @@ DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,suspilne.media
 DOMAIN-SUFFIX,svoboda.org
 DOMAIN-SUFFIX,svtv-static.net
-DOMAIN-SUFFIX,svtv.org
+DOMAIN-SUFFIX,ovd.info
 DOMAIN-SUFFIX,t-invariant.org
 DOMAIN-SUFFIX,tayga.info
 DOMAIN-SUFFIX,telegraf.news

@@ -2,25 +2,26 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CHAOXING.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,ssreader.cn
-DOMAIN-SUFFIX,dayainfo.com
+DOMAIN-SUFFIX,sslibrary.com
+DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,aichaoxing.com
-DOMAIN-SUFFIX,16q.cn
+DOMAIN-SUFFIX,ssreader.cn
 DOMAIN-SUFFIX,chaoxing.com
-DOMAIN-SUFFIX,chaoxingv.com
-DOMAIN-SUFFIX,cxbiji.com
 DOMAIN-SUFFIX,zhihang100.com
+DOMAIN-SUFFIX,cldisk.com
+DOMAIN-SUFFIX,cxbiji.com
+DOMAIN-SUFFIX,dayainfo.com
 DOMAIN-SUFFIX,hongbo100.com
 DOMAIN-SUFFIX,lnlib.net
 DOMAIN-SUFFIX,mndqlib.net
 DOMAIN-SUFFIX,mti100.com
 DOMAIN-SUFFIX,nihaoafrica.org
-DOMAIN-SUFFIX,ssvideo.cn
-DOMAIN-SUFFIX,sslawy.com
-DOMAIN-SUFFIX,sslibrary.com
-DOMAIN-SUFFIX,chaoxing.cc
-DOMAIN-SUFFIX,5read.com
 DOMAIN-SUFFIX,nihaorwanda.cn
+DOMAIN-SUFFIX,sslawy.com
+DOMAIN-SUFFIX,16q.cn
+DOMAIN-SUFFIX,5read.com
+DOMAIN-SUFFIX,chaoxingv.com
+DOMAIN-SUFFIX,ssvideo.cn
 DOMAIN-SUFFIX,zaifan.com
 DOMAIN-SUFFIX,ylike.net
 DOMAIN-SUFFIX,superlib.com
@@ -30,6 +31,7 @@ DOMAIN-SUFFIX,uonline-sh.net
 DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,xxtmail.com
 DOMAIN-SUFFIX,xuexi365.net
+DOMAIN-SUFFIX,xuexitong.com
 DOMAIN-SUFFIX,xuexi365.com.cn
 DOMAIN-SUFFIX,study360.com.cn
 DOMAIN-SUFFIX,ssvideo.com.cn
