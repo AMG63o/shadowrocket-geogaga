@@ -2,11 +2,13 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CATEGORY-ELECTRONIC-CN.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,jlc-3dp.cn
-DOMAIN-SUFFIX,iotronic.tech
+DOMAIN-SUFFIX,wch-ic.com
+DOMAIN-SUFFIX,uniscan.cn
+DOMAIN-SUFFIX,arrow.cn
 DOMAIN-SUFFIX,avermedia.cn
 DOMAIN-SUFFIX,boe.com
 DOMAIN-SUFFIX,bouffalolab.com
+DOMAIN-SUFFIX,cambricon.com
 DOMAIN-SUFFIX,cxmt.com
 DOMAIN-SUFFIX,eda.cn
 DOMAIN-SUFFIX,elecfans.com
@@ -20,18 +22,19 @@ DOMAIN-SUFFIX,thunis.com
 DOMAIN-SUFFIX,tsinghuaic.com
 DOMAIN-SUFFIX,tsingtengms.com
 DOMAIN-SUFFIX,unicloud.com
-DOMAIN-SUFFIX,uniscan.cn
 DOMAIN-SUFFIX,fa-part.com
+DOMAIN-SUFFIX,unisdigital.com
 DOMAIN-SUFFIX,unisemicon.com
 DOMAIN-SUFFIX,unisoc.com
 DOMAIN-SUFFIX,unispc.com
 DOMAIN-SUFFIX,uniswdc.com
 DOMAIN-SUFFIX,infineon.cn
-DOMAIN-SUFFIX,forface3d.com
+DOMAIN-SUFFIX,iotronic.tech
 DOMAIN-SUFFIX,quecmall.cn
 DOMAIN-SUFFIX,listenai.com
+DOMAIN-SUFFIX,allwinnertech.com
+DOMAIN-SUFFIX,ymtc.cn
 DOMAIN-SUFFIX,nanocorechip.com
-DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,rock-chips.com
 DOMAIN-SUFFIX,seeed.cn
 DOMAIN-SUFFIX,seeed.cc
@@ -41,14 +44,16 @@ DOMAIN-SUFFIX,zs-jlc.com
 DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,sipeed.com
 DOMAIN-SUFFIX,maixhub.com
+DOMAIN-SUFFIX,southchip.com
+DOMAIN-SUFFIX,t-head.cn
 DOMAIN-SUFFIX,szjlc.cn
 DOMAIN-SUFFIX,wch.cn
-DOMAIN-SUFFIX,wch-ic.com
-DOMAIN-SUFFIX,unisdigital.com
-DOMAIN-SUFFIX,arrow.cn
-DOMAIN-SUFFIX,ymtc.cn
-DOMAIN-SUFFIX,jlc-3dp.com
+DOMAIN-SUFFIX,mthreads.com
+DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,jlc-bbs.com
+DOMAIN-SUFFIX,jlc-3dp.cn
+DOMAIN-SUFFIX,jlc-3dp.com
+DOMAIN-SUFFIX,forface3d.com
 DOMAIN-SUFFIX,jlc-cad.com
 DOMAIN-SUFFIX,jlc-cam.com
 DOMAIN-SUFFIX,jlc-cnc.com

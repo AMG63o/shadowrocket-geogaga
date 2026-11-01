@@ -2,8 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/TENCENT.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,uncnn.cn
-DOMAIN-SUFFIX,itopsdk.com
+DOMAIN-SUFFIX,txtyxg.com
+DOMAIN-SUFFIX,dnspod.org
 DOMAIN-SUFFIX,acimg.cn
 DOMAIN-SUFFIX,apcdns.net
 DOMAIN-SUFFIX,foxmail.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,rongshuxia.com
 DOMAIN-SUFFIX,tencentmiying.com
 DOMAIN-SUFFIX,tengmed.com
 DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,tenpayglobal.com
 DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatpay.cn
@@ -48,8 +49,10 @@ DOMAIN-SUFFIX,mmbizurl.cn
 DOMAIN-SUFFIX,url.cn
 DOMAIN-SUFFIX,wxaurl.cn
 DOMAIN-SUFFIX,wxmpurl.cn
+DOMAIN-SUFFIX,wesure.cn
+DOMAIN-SUFFIX,wesure100.com
 DOMAIN-SUFFIX,alloyteam.com
-DOMAIN-SUFFIX,imweb.io
+DOMAIN-SUFFIX,qq.xn--fiqs8s
 DOMAIN-SUFFIX,ivweb.io
 DOMAIN-SUFFIX,fyeds.com
 DOMAIN-SUFFIX,fyeds0.com
@@ -142,7 +145,7 @@ DOMAIN-SUFFIX,igtm-meeting-tencent.com
 DOMAIN-SUFFIX,igtm.pub
 DOMAIN-SUFFIX,isd.com
 DOMAIN-SUFFIX,ispqcloud.com
-DOMAIN-SUFFIX,txyscdn.net
+DOMAIN-SUFFIX,itopsdk.com
 DOMAIN-SUFFIX,my-imcloud.com
 DOMAIN-SUFFIX,my-qcloud.com
 DOMAIN-SUFFIX,doh.pub
@@ -163,7 +166,7 @@ DOMAIN-SUFFIX,qcloudclass.com
 DOMAIN-SUFFIX,qcloudcos.cn
 DOMAIN-SUFFIX,qcloudcos.com
 DOMAIN-SUFFIX,dnsv5.com
-DOMAIN-SUFFIX,dnspod.org
+DOMAIN-SUFFIX,txyscdn.com
 DOMAIN-SUFFIX,dnsv3.com
 DOMAIN-SUFFIX,qclouder.com
 DOMAIN-SUFFIX,qcloudgme.com
@@ -244,7 +247,7 @@ DOMAIN-SUFFIX,tencentcos.com
 DOMAIN-SUFFIX,dnsapi.cn
 DOMAIN-SUFFIX,tencentcs.cn
 DOMAIN-SUFFIX,tencentcs.com
-DOMAIN-SUFFIX,tencentdayu.com
+DOMAIN-SUFFIX,txyscdn.net
 DOMAIN-SUFFIX,tencentdb.com
 DOMAIN-SUFFIX,tencentdevices.com
 DOMAIN-SUFFIX,tencentdigitalassistant.com
@@ -279,10 +282,10 @@ DOMAIN-SUFFIX,tx-exhibition.com
 DOMAIN-SUFFIX,txbyod.com
 DOMAIN-SUFFIX,txidc.wang
 DOMAIN-SUFFIX,txlivecdn.com
-DOMAIN-SUFFIX,txtyxg.com
-DOMAIN-SUFFIX,sgyeyou.com
+DOMAIN-SUFFIX,imweb.io
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
-DOMAIN-SUFFIX,gcloudsdk.com
+DOMAIN-SUFFIX,tencentdayu.com
+DOMAIN-SUFFIX,uncnn.cn
 DOMAIN-SUFFIX,vcloudstc.com
 DOMAIN-SUFFIX,vcloudstc.net
 DOMAIN-SUFFIX,vcloudvod.com
@@ -385,7 +388,7 @@ DOMAIN-SUFFIX,pinyin.cn
 DOMAIN-SUFFIX,qd.ink
 DOMAIN-SUFFIX,binglianhuajianzhan.com
 DOMAIN-SUFFIX,sgtmos.com
-DOMAIN-SUFFIX,txyscdn.com
+DOMAIN-SUFFIX,sgyeyou.com
 DOMAIN-SUFFIX,sgyouxi.com
 DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.cn
@@ -430,7 +433,7 @@ DOMAIN-SUFFIX,gcloudcs.com
 DOMAIN-SUFFIX,gcloudcstest.com
 DOMAIN-SUFFIX,gcloudcstestonly.com
 DOMAIN-SUFFIX,gclouddolphin.com
-DOMAIN-SUFFIX,qq.xn--fiqs8s
+DOMAIN-SUFFIX,gcloudsdk.com
 DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,goto-game.com
 DOMAIN-SUFFIX,goto-game.mobi
