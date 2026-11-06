@@ -4,19 +4,19 @@
   "sources": {
     "DanielLavrushin-b4geoip-geoip": {
       "files": 310,
-      "rules": 1232741
+      "rules": 1229346
     },
     "Loyalsoldier-v2ray-rules-dat-geosite": {
       "files": 1562,
-      "rules": 528778
+      "rules": 530101
     },
     "PentiumB-CDN-RuleSet-geoip": {
       "files": 7,
-      "rules": 38509
+      "rules": 38590
     },
     "geogaga-client-flavor-geoip": {
       "files": 2,
-      "rules": 87517
+      "rules": 87641
     },
     "geogaga-client-flavor-geosite": {
       "files": 3,
@@ -24,7 +24,7 @@
     },
     "hydraponique-roscomvpn-geoip-geoip": {
       "files": 3,
-      "rules": 43433
+      "rules": 43467
     },
     "hydraponique-roscomvpn-geosite-geosite": {
       "files": 24,
@@ -32,19 +32,19 @@
     },
     "mansourjabin-cdn-ip-database-geoip": {
       "files": 22,
-      "rules": 14156
+      "rules": 14162
     },
     "runetfreedom-russia-v2ray-rules-dat-geoip": {
       "files": 266,
-      "rules": 1201787
+      "rules": 1201784
     },
     "runetfreedom-russia-v2ray-rules-dat-geosite": {
       "files": 1565,
-      "rules": 3614716
+      "rules": 3624003
     }
   },
   "source_directories": 10,
   "generated_files": 3764,
   "nonempty_files": 3764,
-  "generated_rules": 6842318
+  "generated_rules": 6849775
 }
