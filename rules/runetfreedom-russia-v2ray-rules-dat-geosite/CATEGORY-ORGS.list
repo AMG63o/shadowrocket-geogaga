@@ -26,7 +26,14 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
+DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,csis.org
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,xn--yt8h.la
 DOMAIN-SUFFIX,attestation.app
 DOMAIN-SUFFIX,grapheneos.app
 DOMAIN-SUFFIX,grapheneos.ca
@@ -97,8 +104,7 @@ DOMAIN-SUFFIX,photonicssociety.org
 DOMAIN-SUFFIX,signalprocessingsociety.org
 DOMAIN-SUFFIX,technologyandsociety.org
 DOMAIN-SUFFIX,vtsociety.org
-DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
+DOMAIN-SUFFIX,ppy.sh
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,ccstatic.org
@@ -126,10 +132,4 @@ DOMAIN-SUFFIX,osm.org
 DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
-DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,ppy.sh
-DOMAIN-SUFFIX,emojipedia.org
-DOMAIN-SUFFIX,worldemojiawards.com
-DOMAIN-SUFFIX,worldemojiday.com
-DOMAIN-SUFFIX,xn--yt8h.la
 DOMAIN,sentry.ppy.sh
