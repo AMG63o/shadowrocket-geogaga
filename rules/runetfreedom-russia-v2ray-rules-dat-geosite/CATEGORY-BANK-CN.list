@@ -2,29 +2,30 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CATEGORY-BANK-CN.LST
 # Source branch: lists
 # Generated automatically.
+DOMAIN-SUFFIX,shrbank.com
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,bankcomm.cn
 DOMAIN-SUFFIX,kcbebank.com
 DOMAIN-SUFFIX,unionpaysecure.com
-DOMAIN-SUFFIX,bankcomm.com
-DOMAIN-SUFFIX,shrbank.com
 DOMAIN-SUFFIX,cup62.cn
 DOMAIN-SUFFIX,bosc.cn
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,cdrcb.com
 DOMAIN-SUFFIX,cdrcbank.com
-DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,whccb.com
 DOMAIN-SUFFIX,unionpay.net
-DOMAIN-SUFFIX,unionpayintl.cn
+DOMAIN-SUFFIX,chinaunionpay.net
 DOMAIN-SUFFIX,95516.net
-DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,95508.com
 DOMAIN-SUFFIX,unionpayintl.com
-DOMAIN-SUFFIX,mybank.cn
+DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,chinaunionpay.com
 DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,chinaums.com
-DOMAIN-SUFFIX,whccb.com
-DOMAIN-SUFFIX,wxsbank.com
-DOMAIN-SUFFIX,bankcomm.cn
-DOMAIN-SUFFIX,ibangbank.com
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,unionpayintl.cn
+DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,ms-bank.cn
 DOMAIN-SUFFIX,tctpwebankcdn.net
 DOMAIN-SUFFIX,wbweilicai.com
@@ -43,7 +44,7 @@ DOMAIN-SUFFIX,kshbank.cn
 DOMAIN-SUFFIX,xa-bank.com
 DOMAIN-SUFFIX,newupbank.com
 DOMAIN-SUFFIX,ymbank.com
-DOMAIN-SUFFIX,chinaunionpay.net
+DOMAIN-SUFFIX,wxsbank.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cmbc.com.cn
 DOMAIN-SUFFIX,hsbcinsurance.com.cn

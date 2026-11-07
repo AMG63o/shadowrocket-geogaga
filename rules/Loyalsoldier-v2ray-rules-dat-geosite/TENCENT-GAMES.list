@@ -2,8 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/TENCENT-GAMES.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,wcbygame.com
 DOMAIN-SUFFIX,yxdmgame.com
+DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,gameloop.com
 DOMAIN-SUFFIX,gcloudcs.com
 DOMAIN-SUFFIX,gcloudcstest.com
@@ -19,23 +19,22 @@ DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,hkgcloudcs.com
 DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,ludosuperstar.cn
 DOMAIN-SUFFIX,ludoworld.net
 DOMAIN-SUFFIX,mahjongai.net
-DOMAIN-SUFFIX,mahjongcup.cn
+DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,mahjongcup.com
 DOMAIN-SUFFIX,mahjongcup.net
 DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,midasbuy.com
-DOMAIN-SUFFIX,nagcloudcs.com
+DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,proximabeta.com
 DOMAIN-SUFFIX,pubghelper.com
 DOMAIN-SUFFIX,pubgno1.cn
 DOMAIN-SUFFIX,pubgtool.com
 DOMAIN-SUFFIX,qqgameapp.com
 DOMAIN-SUFFIX,rmwxgame.com
-DOMAIN-SUFFIX,yximg.cn
+DOMAIN-SUFFIX,skydweller.cn
 DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,tencent-gcloud.com
 DOMAIN-SUFFIX,tencentstart.com
@@ -43,10 +42,10 @@ DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
 DOMAIN-SUFFIX,timibase.com
-DOMAIN-SUFFIX,videoxiaoyouxi.com
+DOMAIN-SUFFIX,mahjongcup.cn
+DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,gameitop.com
-DOMAIN-SUFFIX,battlecare.net
-DOMAIN-SUFFIX,skydweller.cn
+DOMAIN-SUFFIX,yximg.cn
 DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,zcjbgame.com
@@ -62,7 +61,7 @@ DOMAIN-SUFFIX,mszdld.net
 DOMAIN-SUFFIX,gamebonfire.com
 DOMAIN-SUFFIX,ffbuddy.com
 DOMAIN-SUFFIX,gotolink.net
-DOMAIN-SUFFIX,17roco.com
+DOMAIN-SUFFIX,wcbygame.com
 DOMAIN-SUFFIX,gtgres.com
 DOMAIN-SUFFIX,realcybertron.com
 DOMAIN-SUFFIX,wegame.com
@@ -87,3 +86,6 @@ DOMAIN-SUFFIX,gouhuo.qq.com
 DOMAIN-SUFFIX,roblox.qq.com
 DOMAIN-SUFFIX,goto-game.net.cn
 DOMAIN-SUFFIX,roco.qq.com
+DOMAIN-SUFFIX,tencentgames.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,nikke-en.com

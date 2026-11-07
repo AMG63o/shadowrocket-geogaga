@@ -2,8 +2,9 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CATEGORY-BANK-CN.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,kcbebank.com
-DOMAIN-SUFFIX,mybank.cn
+DOMAIN-SUFFIX,shrbank.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bankcomm.cn
 DOMAIN-SUFFIX,bankcomm.com
 DOMAIN-SUFFIX,unionpaysecure.com
 DOMAIN-SUFFIX,unionpay.net
@@ -15,16 +16,16 @@ DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,95516.net
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cup62.cn
-DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,95508.com
 DOMAIN-SUFFIX,unionpayintl.com
 DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,chinaunionpay.com
-DOMAIN-SUFFIX,shrbank.com
-DOMAIN-SUFFIX,chinaums.com
-DOMAIN-SUFFIX,whccb.com
-DOMAIN-SUFFIX,bankcomm.cn
-DOMAIN-SUFFIX,chinaunionpay.net
 DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,chinaums.com
+DOMAIN-SUFFIX,chinaunionpay.net
+DOMAIN-SUFFIX,whccb.com
+DOMAIN-SUFFIX,kcbebank.com
+DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,ms-bank.cn
 DOMAIN-SUFFIX,tctpwebankcdn.net
 DOMAIN-SUFFIX,wbweilicai.com
