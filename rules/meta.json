@@ -36,15 +36,15 @@
     },
     "runetfreedom-russia-v2ray-rules-dat-geoip": {
       "files": 266,
-      "rules": 1201790
+      "rules": 1201791
     },
     "runetfreedom-russia-v2ray-rules-dat-geosite": {
       "files": 1565,
-      "rules": 3632340
+      "rules": 3632513
     }
   },
   "source_directories": 10,
   "generated_files": 3764,
   "nonempty_files": 3764,
-  "generated_rules": 6832960
+  "generated_rules": 6833134
 }
