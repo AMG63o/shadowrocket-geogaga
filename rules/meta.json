@@ -12,11 +12,11 @@
     },
     "PentiumB-CDN-RuleSet-geoip": {
       "files": 7,
-      "rules": 38660
+      "rules": 38704
     },
     "geogaga-client-flavor-geoip": {
       "files": 2,
-      "rules": 87748
+      "rules": 75540
     },
     "geogaga-client-flavor-geosite": {
       "files": 3,
@@ -24,7 +24,7 @@
     },
     "hydraponique-roscomvpn-geoip-geoip": {
       "files": 3,
-      "rules": 43559
+      "rules": 29645
     },
     "hydraponique-roscomvpn-geosite-geosite": {
       "files": 24,
@@ -40,11 +40,11 @@
     },
     "runetfreedom-russia-v2ray-rules-dat-geosite": {
       "files": 1565,
-      "rules": 3632180
+      "rules": 3632340
     }
   },
   "source_directories": 10,
   "generated_files": 3764,
   "nonempty_files": 3764,
-  "generated_rules": 6858878
+  "generated_rules": 6832960
 }
