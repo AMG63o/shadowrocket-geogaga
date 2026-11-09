@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/QT.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,qt.io
+DOMAIN-SUFFIX,qt-project.org

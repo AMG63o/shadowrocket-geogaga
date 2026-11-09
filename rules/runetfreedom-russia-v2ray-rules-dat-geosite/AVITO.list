@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/AVITO.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,avito.com
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech
+DOMAIN,stats.avito.ru

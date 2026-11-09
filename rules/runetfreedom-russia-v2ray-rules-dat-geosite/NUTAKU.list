@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/NUTAKU.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nutaku.com
+DOMAIN-SUFFIX,nutaku.net

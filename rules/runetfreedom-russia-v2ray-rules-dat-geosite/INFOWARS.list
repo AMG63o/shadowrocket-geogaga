@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/INFOWARS.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,banned.video
+DOMAIN-SUFFIX,infowars.com
+DOMAIN-SUFFIX,infowarsmedia.com

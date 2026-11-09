@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/HKGOLDEN.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,hkgolden.com
+DOMAIN-SUFFIX,hkgolden.media

@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/NUDEVISTA.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,nudevista.com
+DOMAIN-SUFFIX,nudevista.es
+DOMAIN-SUFFIX,nudevista.net
+DOMAIN-SUFFIX,nudevista.vip

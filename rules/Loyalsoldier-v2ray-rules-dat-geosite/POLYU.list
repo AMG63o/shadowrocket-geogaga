@@ -1,0 +1,9 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/POLYU.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,polyu.hk
+DOMAIN-SUFFIX,polyu.edu.hk
+DOMAIN-SUFFIX,cpce-polyu.edu.hk
+DOMAIN-SUFFIX,speed-polyu.edu.hk
+DOMAIN-SUFFIX,hkcc-polyu.edu.hk

@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/RUBY.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,ruby-lang.org
+DOMAIN-SUFFIX,rubygems.org

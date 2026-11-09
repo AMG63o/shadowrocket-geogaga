@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/BETBOOM.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,betboom.ru
+DOMAIN-SUFFIX,mobile-bb.com

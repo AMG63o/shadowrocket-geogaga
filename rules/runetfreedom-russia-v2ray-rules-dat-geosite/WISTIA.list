@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/WISTIA.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,wistia.net
+DOMAIN-SUFFIX,embedwistia-a.akamaihd.net

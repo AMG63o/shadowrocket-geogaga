@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/SPICEWORKS.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,spiceworks.com
+DOMAIN-SUFFIX,spiceworksstatic.com

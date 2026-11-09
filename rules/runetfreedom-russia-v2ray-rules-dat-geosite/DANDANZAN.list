@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/DANDANZAN.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,dandanzan.cc
+DOMAIN-SUFFIX,nunuyy.cc

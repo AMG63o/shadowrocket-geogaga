@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/DERIBIT.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN,deribit.cdn.prismic.io
+DOMAIN-SUFFIX,deribit.com

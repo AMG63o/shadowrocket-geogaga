@@ -1,0 +1,11 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CATEGORY-ADS-IR.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,adivery.com
+DOMAIN-SUFFIX,adivery.ir
+DOMAIN-SUFFIX,kaprila.com
+DOMAIN-SUFFIX,najva.com
+DOMAIN-SUFFIX,sabavision.com
+DOMAIN-SUFFIX,tapsell.ir
+DOMAIN-SUFFIX,yektanet.com

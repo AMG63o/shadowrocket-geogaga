@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/GITHUB1S.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,sourcegraph.com

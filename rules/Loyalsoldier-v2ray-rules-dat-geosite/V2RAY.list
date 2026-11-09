@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/V2RAY.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,v2fly.org

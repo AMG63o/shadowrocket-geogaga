@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/KODI.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,kodi.tv
+DOMAIN-SUFFIX,kodi.wiki

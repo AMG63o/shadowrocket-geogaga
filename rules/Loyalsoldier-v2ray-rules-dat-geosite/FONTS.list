@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/FONTS.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,fonts.com
+DOMAIN-SUFFIX,fonts.net

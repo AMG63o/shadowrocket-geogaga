@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/SCIENCEDIRECT.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,sciencedirectassets.com

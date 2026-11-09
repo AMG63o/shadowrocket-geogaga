@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/ECONOMIST.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,economistgroup.com
+DOMAIN-SUFFIX,economistgroupcareers.com
+DOMAIN-SUFFIX,eiu.com

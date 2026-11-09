@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/NEWSMAX.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,andysparis.com
+DOMAIN-SUFFIX,newsmax.com
+DOMAIN-SUFFIX,newsmax.in
+DOMAIN-SUFFIX,newsmaxtv.com

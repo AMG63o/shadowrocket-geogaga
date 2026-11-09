@@ -1,0 +1,7 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/PGYER.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,pgyer.com
+DOMAIN-SUFFIX,tracup.com
+DOMAIN-SUFFIX,frontjs.com

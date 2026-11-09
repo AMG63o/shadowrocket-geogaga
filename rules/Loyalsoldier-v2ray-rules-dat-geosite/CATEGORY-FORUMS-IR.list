@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CATEGORY-FORUMS-IR.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,quera.ir
+DOMAIN-SUFFIX,quera.org

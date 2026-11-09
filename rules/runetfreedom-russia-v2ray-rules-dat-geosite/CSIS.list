@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CSIS.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN,csis-prod.s3.amazonaws.com
+DOMAIN-SUFFIX,csis.org

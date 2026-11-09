@@ -1,0 +1,6 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/SETN.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,setn.com
+DOMAIN-SUFFIX,settv.com.tw

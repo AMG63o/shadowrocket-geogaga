@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/FONTSHOP.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com

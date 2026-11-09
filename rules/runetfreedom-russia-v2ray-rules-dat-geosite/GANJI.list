@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/GANJI.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,58ganji.com
+DOMAIN-SUFFIX,58ganji-corp.com
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,ganjistatic1.com

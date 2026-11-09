@@ -1,0 +1,8 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/XDA.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,xda-cdn.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,xdaimages.com
