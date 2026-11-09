@@ -1,8 +1,0 @@
-# GeoGaGa -> Shadowrocket RULE-SET
-# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/WEBFLOW.LST
-# Source branch: lists
-# Generated automatically.
-DOMAIN-SUFFIX,webflow-ext.com
-DOMAIN-SUFFIX,webflow.com
-DOMAIN-SUFFIX,webflow.io
-DOMAIN-SUFFIX,website-files.com
