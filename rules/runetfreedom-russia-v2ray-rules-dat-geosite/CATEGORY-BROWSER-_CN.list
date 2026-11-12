@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,decentr.net
 DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,palemoon.org
-DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,cromite.org
 DOMAIN-SUFFIX,pulsebrowser.app
 DOMAIN-SUFFIX,dothq.org
@@ -27,8 +27,6 @@ DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,waterfox.net
 DOMAIN-SUFFIX,zen-browser.app
-DOMAIN-SUFFIX,ceno.app
-DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,firefox-portal-detection.com
@@ -38,4 +36,6 @@ DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,librewolf.dev
 DOMAIN-SUFFIX,librewolf.net
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,browser.kagi.com
