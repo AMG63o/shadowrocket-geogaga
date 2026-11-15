@@ -40,11 +40,11 @@
     },
     "runetfreedom-russia-v2ray-rules-dat-geosite": {
       "files": 1566,
-      "rules": 3675152
+      "rules": 3675240
     }
   },
   "source_directories": 10,
   "generated_files": 3766,
   "nonempty_files": 3766,
-  "generated_rules": 6904906
+  "generated_rules": 6904994
 }
