@@ -4,14 +4,17 @@
 # Generated automatically.
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,packages.microsoft.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
@@ -78,3 +81,4 @@ DOMAIN-SUFFIX,reactorms.com.cn
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,rt.services.visualstudio.com
+DOMAIN,vscode.download.prss.microsoft.com

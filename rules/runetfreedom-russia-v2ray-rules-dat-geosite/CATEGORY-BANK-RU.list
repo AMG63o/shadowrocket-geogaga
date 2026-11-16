@@ -5,7 +5,7 @@
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
 DOMAIN-SUFFIX,novikom.ru
-DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,babki.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,myapelsin.ru
@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,mtsdengi.ru
 DOMAIN-SUFFIX,otpbank.ru
 DOMAIN-SUFFIX,pervbank.ru
 DOMAIN-SUFFIX,prvbank.ru
-DOMAIN-SUFFIX,alfa.me
+DOMAIN-SUFFIX,pvubank.com
 DOMAIN-SUFFIX,payment.ru
 DOMAIN-SUFFIX,psb-ocenka.ru
 DOMAIN-SUFFIX,psb.ru
@@ -63,7 +63,7 @@ DOMAIN-SUFFIX,halvacard.ru
 DOMAIN-SUFFIX,home.bank
 DOMAIN-SUFFIX,homecredit.ru
 DOMAIN-SUFFIX,hva.im
-DOMAIN-SUFFIX,ns-bank.ru
+DOMAIN-SUFFIX,scb.ru
 DOMAIN-SUFFIX,sovcombank.ru
 DOMAIN-SUFFIX,itb.ru
 DOMAIN-SUFFIX,tkbbank.ru
@@ -86,10 +86,12 @@ DOMAIN-SUFFIX,vtb.ru
 DOMAIN-SUFFIX,vtbbo.ru
 DOMAIN-SUFFIX,vtbglobalperspectives.com
 DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,credit-zenit.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
-DOMAIN-SUFFIX,asia-pay.ru
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,koronapay.com
 DOMAIN-SUFFIX,moneta.ru
@@ -153,7 +155,7 @@ DOMAIN-SUFFIX,finambank.ru
 DOMAIN-SUFFIX,finstarbank.ru
 DOMAIN-SUFFIX,forabank.ru
 DOMAIN-SUFFIX,tinkoff-edu.ru
-DOMAIN-SUFFIX,forshtadt.ru
+DOMAIN-SUFFIX,ns-bank.ru
 DOMAIN-SUFFIX,gaztransbank.ru
 DOMAIN-SUFFIX,gebank.ru
 DOMAIN-SUFFIX,genbank.ru
@@ -178,9 +180,9 @@ DOMAIN-SUFFIX,nico-bank.ru
 DOMAIN-SUFFIX,nipbank.ru
 DOMAIN-SUFFIX,noosferabank.ru
 DOMAIN-SUFFIX,norvikbank.ru
-DOMAIN-SUFFIX,pvubank.com
-DOMAIN-SUFFIX,novobank.ru
-DOMAIN-SUFFIX,scb.ru
+DOMAIN-SUFFIX,asia-pay.ru
+DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,forshtadt.ru
 DOMAIN-SUFFIX,nskbl.ru
 DOMAIN-SUFFIX,okbank.ru
 DOMAIN-SUFFIX,orbank.ru
@@ -254,7 +256,7 @@ DOMAIN-SUFFIX,4c.ru
 DOMAIN-SUFFIX,4epenaxa.com
 DOMAIN-SUFFIX,atomyze.ru
 DOMAIN-SUFFIX,atomyze.tech
-DOMAIN-SUFFIX,babki.ru
+DOMAIN-SUFFIX,novobank.ru
 DOMAIN-SUFFIX,bankline.ru
 DOMAIN-SUFFIX,booking-tec.ru
 DOMAIN-SUFFIX,capitalt.ru
