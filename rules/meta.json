@@ -12,11 +12,11 @@
     },
     "PentiumB-CDN-RuleSet-geoip": {
       "files": 7,
-      "rules": 38827
+      "rules": 38860
     },
     "geogaga-client-flavor-geoip": {
       "files": 2,
-      "rules": 88584
+      "rules": 88596
     },
     "geogaga-client-flavor-geosite": {
       "files": 3,
@@ -32,19 +32,19 @@
     },
     "mansourjabin-cdn-ip-database-geoip": {
       "files": 22,
-      "rules": 14144
+      "rules": 14150
     },
     "runetfreedom-russia-v2ray-rules-dat-geoip": {
       "files": 266,
-      "rules": 1202070
+      "rules": 1202091
     },
     "runetfreedom-russia-v2ray-rules-dat-geosite": {
       "files": 1567,
-      "rules": 3674572
+      "rules": 3689037
     }
   },
   "source_directories": 10,
   "generated_files": 3768,
   "nonempty_files": 3768,
-  "generated_rules": 6904273
+  "generated_rules": 6918810
 }
