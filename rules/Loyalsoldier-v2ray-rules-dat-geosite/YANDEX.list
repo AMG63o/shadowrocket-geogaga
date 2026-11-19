@@ -6,7 +6,7 @@ DOMAIN,kp-config-smart-tv.akamaized.net
 DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,yandex.kg
-DOMAIN-SUFFIX,yandex.sx
+DOMAIN-SUFFIX,sourcecraft.dev
 DOMAIN-SUFFIX,beru.ru
 DOMAIN-SUFFIX,bookmate.ru
 DOMAIN-SUFFIX,cabconnect.org
@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,rutaxi.ru
 DOMAIN-SUFFIX,shedevrum.ai
 DOMAIN-SUFFIX,shedevrum.com
 DOMAIN-SUFFIX,shedevrum.ru
-DOMAIN-SUFFIX,sourcecraft.dev
+DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,static-storage.net
 DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,taxiaid.org
@@ -53,17 +53,17 @@ DOMAIN-SUFFIX,yandex.cloud
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yandex.de
 DOMAIN-SUFFIX,yandex.ee
-DOMAIN-SUFFIX,yandex.eu
+DOMAIN-SUFFIX,yandex.jobs
 DOMAIN-SUFFIX,yandex.fi
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,yndx.net
 DOMAIN-SUFFIX,yandex.fr
 DOMAIN-SUFFIX,yandex.it
-DOMAIN-SUFFIX,yandex.jobs
-DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+DOMAIN-SUFFIX,yandex.eu
 DOMAIN-SUFFIX,berizaryad.ru
-DOMAIN-SUFFIX,yandex.lv
 DOMAIN-SUFFIX,yandex.kz
+DOMAIN-SUFFIX,yandex.lt
+DOMAIN-SUFFIX,yandex.lv
 DOMAIN-SUFFIX,yandex.market
 DOMAIN-SUFFIX,yandex.md
 DOMAIN-SUFFIX,yandex.mobi
@@ -78,7 +78,7 @@ DOMAIN-SUFFIX,yandex.pl
 DOMAIN-SUFFIX,yandex.pro
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandex.st
-DOMAIN-SUFFIX,yandex.lt
+DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.taxi
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
@@ -94,7 +94,6 @@ DOMAIN-SUFFIX,yandexdataschool.ru
 DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexlyceum.ru
 DOMAIN-SUFFIX,yandexwebcache.net
-DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yango-b2b.com
 DOMAIN-SUFFIX,yango-team.com
 DOMAIN-SUFFIX,yango-tech.com
