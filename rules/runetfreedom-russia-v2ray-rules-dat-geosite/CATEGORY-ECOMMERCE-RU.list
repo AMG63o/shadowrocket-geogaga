@@ -2,8 +2,11 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CATEGORY-ECOMMERCE-RU.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,wbwh.tech
-DOMAIN-SUFFIX,vsemrabota.ru
+DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,rwbautomation.tech
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,ozon-credit.ru
 DOMAIN-SUFFIX,o3t.ru
@@ -44,10 +47,10 @@ DOMAIN-SUFFIX,ozonru.eu
 DOMAIN-SUFFIX,ozonru.me
 DOMAIN-SUFFIX,ozonsport.ru
 DOMAIN-SUFFIX,ozonstatus.ru
-DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,drom.ru
 DOMAIN-SUFFIX,digital-wb.ru
 DOMAIN-SUFFIX,digitalwb.ru
-DOMAIN-SUFFIX,drom.ru
+DOMAIN-SUFFIX,etradebook.ru
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,mp.world
 DOMAIN-SUFFIX,onlyjobs.ru
@@ -56,10 +59,10 @@ DOMAIN-SUFFIX,paywb.ru
 DOMAIN-SUFFIX,russoutdoor.ru
 DOMAIN-SUFFIX,rwb.ru
 DOMAIN-SUFFIX,rwbautomation.ru
-DOMAIN-SUFFIX,rwbautomation.tech
+DOMAIN-SUFFIX,wbtek.ru
 DOMAIN-SUFFIX,rwbgeo.ru
 DOMAIN-SUFFIX,vamzakaz.ru
-DOMAIN-SUFFIX,wibes.com
+DOMAIN-SUFFIX,vsemrabota.ru
 DOMAIN-SUFFIX,warehouse.domains
 DOMAIN-SUFFIX,wb-bank.ru
 DOMAIN-SUFFIX,wb-basket.ru
@@ -81,12 +84,12 @@ DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,wbr.by
 DOMAIN-SUFFIX,wbrep.ru
 DOMAIN-SUFFIX,wbstatic.net
-DOMAIN-SUFFIX,wbstatic.ru
-DOMAIN-SUFFIX,wbtek.ru
-DOMAIN-SUFFIX,wbwh.ru
-DOMAIN-SUFFIX,etradebook.ru
+DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,rdrom.ru
-DOMAIN-SUFFIX,wildbrris.ru
+DOMAIN-SUFFIX,wildbirris.ru
+DOMAIN-SUFFIX,wbwh.tech
+DOMAIN-SUFFIX,wibes.com
+DOMAIN-SUFFIX,wibes.ru
 DOMAIN-SUFFIX,wildberries.am
 DOMAIN-SUFFIX,wildberries.by
 DOMAIN-SUFFIX,wildberries.es
@@ -130,10 +133,10 @@ DOMAIN-SUFFIX,wildberr.ru
 DOMAIN-SUFFIX,wildberriess.ru
 DOMAIN-SUFFIX,wildberrise.ru
 DOMAIN-SUFFIX,wildbiries.ru
-DOMAIN-SUFFIX,wildbirris.ru
+DOMAIN-SUFFIX,wbwh.ru
 DOMAIN-SUFFIX,wildbress.ru
 DOMAIN-SUFFIX,wildbries.ru
-DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,wildbrris.ru
 DOMAIN-SUFFIX,wildeberies.ru
 DOMAIN-SUFFIX,wildeberris.ru
 DOMAIN-SUFFIX,wiliberes.ru
@@ -144,10 +147,10 @@ DOMAIN-SUFFIX,wolfberries.ru
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
 DOMAIN-SUFFIX,apiauto.ru
-DOMAIN-SUFFIX,sfunpay.com
-DOMAIN-SUFFIX,funpay.ru
-DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,flowwow.com
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
+DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
 DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,autoru.me
 DOMAIN-SUFFIX,avto.ru
@@ -161,9 +164,6 @@ DOMAIN-SUFFIX,cian.site
 DOMAIN-SUFFIX,ciangroup.ru
 DOMAIN-SUFFIX,dmir.ru
 DOMAIN-SUFFIX,poudobnee.com
-DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
-DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
-DOMAIN-SUFFIX,flowwow-images.com
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozonru.co.il

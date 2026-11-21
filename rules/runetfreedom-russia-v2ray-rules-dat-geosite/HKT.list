@@ -2,11 +2,12 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/HKT.LST
 # Source branch: lists
 # Generated automatically.
+DOMAIN-SUFFIX,hkt
+DOMAIN-SUFFIX,hkt.com
 DOMAIN-SUFFIX,esmarthealth.com
 DOMAIN-SUFFIX,hkcsl.com
 DOMAIN-SUFFIX,hkt-enterprise.com
 DOMAIN-SUFFIX,hkt-eye.com
-DOMAIN-SUFFIX,hkt.com
 DOMAIN-SUFFIX,hkteducation.com
 DOMAIN-SUFFIX,hktpremier.com
 DOMAIN-SUFFIX,hktshop.com
