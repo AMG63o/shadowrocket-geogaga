@@ -2,8 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CATEGORY-AUTOMOBILE-CN.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,nio.com
-DOMAIN-SUFFIX,dcarimg.com
+DOMAIN-SUFFIX,niohome.com
+DOMAIN-SUFFIX,yccdn.com
 DOMAIN-SUFFIX,autohome.tel
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,jiakaobaodian.com
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,mucang.cn
 DOMAIN-SUFFIX,byd.com
 DOMAIN-SUFFIX,chery.cn
 DOMAIN-SUFFIX,faw.cn
+DOMAIN-SUFFIX,12365auto.com
 DOMAIN-SUFFIX,geely.com
 DOMAIN-SUFFIX,lixiang.com
 DOMAIN-SUFFIX,seres.cn
@@ -25,10 +26,10 @@ DOMAIN-SUFFIX,lynkco.com
 DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcarstatic.com
-DOMAIN-SUFFIX,nio.cn
 DOMAIN-SUFFIX,autohome.com
-DOMAIN-SUFFIX,12365auto.com
-DOMAIN-SUFFIX,wkzuche.com
+DOMAIN-SUFFIX,nio.cn
+DOMAIN-SUFFIX,faw-vw.com
+DOMAIN-SUFFIX,zeekrgroup.com
 DOMAIN-SUFFIX,zeekrlife.com
 DOMAIN-SUFFIX,gzurl.cn
 DOMAIN-SUFFIX,guazi.com
@@ -37,16 +38,16 @@ DOMAIN-SUFFIX,guazi.net
 DOMAIN-SUFFIX,1hai.cn
 DOMAIN-SUFFIX,izuche.com
 DOMAIN-SUFFIX,izuchebao.com
-DOMAIN-SUFFIX,zeekrgroup.com
+DOMAIN-SUFFIX,wkzuche.com
 DOMAIN-SUFFIX,zuche.com
 DOMAIN-SUFFIX,zuchecdn.com
 DOMAIN-SUFFIX,bitauto.com
 DOMAIN-SUFFIX,bitautoimg.com
 DOMAIN-SUFFIX,cheyisou.com
 DOMAIN-SUFFIX,yiche.com
-DOMAIN-SUFFIX,yccdn.com
+DOMAIN-SUFFIX,nio.com
 DOMAIN-SUFFIX,dcarapi.com
-DOMAIN-SUFFIX,niohome.com
+DOMAIN-SUFFIX,dcarimg.com
 DOMAIN-SUFFIX,dcarlive.com
 DOMAIN-SUFFIX,lynkco.com.cn
 DOMAIN-SUFFIX,jac.com.cn
