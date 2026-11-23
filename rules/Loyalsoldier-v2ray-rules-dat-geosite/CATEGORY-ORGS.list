@@ -2,7 +2,6 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/CATEGORY-ORGS.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh
 DOMAIN,c.ppy.sh
@@ -11,6 +10,7 @@ DOMAIN,m1.ppy.sh
 DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
 DOMAIN,spectator.ppy.sh
+DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
+DOMAIN-SUFFIX,ppy.sh
+DOMAIN-SUFFIX,rolfoundation.org
+DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org
 DOMAIN-SUFFIX,creativecommons.engineering
@@ -35,6 +38,20 @@ DOMAIN-SUFFIX,emojipedia.org
 DOMAIN-SUFFIX,worldemojiawards.com
 DOMAIN-SUFFIX,worldemojiday.com
 DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN-SUFFIX,f-dro1d.org
+DOMAIN-SUFFIX,f-droid.com
+DOMAIN-SUFFIX,f-droid.org
+DOMAIN-SUFFIX,fdroid.org
+DOMAIN-SUFFIX,acousticbrainz.org
+DOMAIN-SUFFIX,bookbrainz.org
+DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,listenbrainz.org
+DOMAIN-SUFFIX,messybrainz.org
+DOMAIN-SUFFIX,metabrainz.org
+DOMAIN-SUFFIX,musicbrainz.org
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
 DOMAIN-SUFFIX,attestation.app
 DOMAIN-SUFFIX,grapheneos.app
 DOMAIN-SUFFIX,grapheneos.ca
@@ -115,21 +132,4 @@ DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
 DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,ppy.sh
-DOMAIN-SUFFIX,f-dro1d.org
-DOMAIN-SUFFIX,f-droid.com
-DOMAIN-SUFFIX,f-droid.org
-DOMAIN-SUFFIX,fdroid.org
-DOMAIN-SUFFIX,acousticbrainz.org
-DOMAIN-SUFFIX,bookbrainz.org
-DOMAIN-SUFFIX,coverartarchive.org
-DOMAIN-SUFFIX,critiquebrainz.org
-DOMAIN-SUFFIX,listenbrainz.org
-DOMAIN-SUFFIX,messybrainz.org
-DOMAIN-SUFFIX,metabrainz.org
-DOMAIN-SUFFIX,musicbrainz.org
-DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
-DOMAIN-SUFFIX,rolfoundation.org
-DOMAIN-SUFFIX,rolsociety.org
 DOMAIN,sentry.ppy.sh
