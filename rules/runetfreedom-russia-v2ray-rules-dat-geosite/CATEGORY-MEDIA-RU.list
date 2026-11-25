@@ -2,8 +2,8 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CATEGORY-MEDIA-RU.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,rtde.live
-DOMAIN-SUFFIX,de-rt.org
+DOMAIN-SUFFIX,72.ru
+DOMAIN-SUFFIX,amic.ru
 DOMAIN-SUFFIX,e1.ru
 DOMAIN-SUFFIX,ekat.ru
 DOMAIN-SUFFIX,gazeta.ru
@@ -21,24 +21,6 @@ DOMAIN-SUFFIX,webtypikon.ru
 DOMAIN-SUFFIX,xn--80adfddrquddgz.xn--p1ai
 DOMAIN-SUFFIX,pravmir.com
 DOMAIN-SUFFIX,pravmir.ru
-DOMAIN-SUFFIX,1prime.ru
-DOMAIN-SUFFIX,rossiyasegodnya.com
-DOMAIN-SUFFIX,ria.ru
-DOMAIN-SUFFIX,jinrieluosi.cn
-DOMAIN-SUFFIX,arctic.ru
-DOMAIN-SUFFIX,baltnews.com
-DOMAIN-SUFFIX,baltnews.lt
-DOMAIN-SUFFIX,inosmi.ru
-DOMAIN-SUFFIX,ukraina.ru
-DOMAIN-SUFFIX,pressria.ru
-DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
-DOMAIN-SUFFIX,radiosputnik.ru
-DOMAIN-SUFFIX,sputnikglobe.com
-DOMAIN-SUFFIX,sputnikimages.com
-DOMAIN-SUFFIX,sputnikmediabank.com
-DOMAIN-SUFFIX,sputniknews.com
-DOMAIN-SUFFIX,tok.media
-DOMAIN-SUFFIX,ruptly.video
 DOMAIN-SUFFIX,asiangooglenetwork.com
 DOMAIN-SUFFIX,rt.com
 DOMAIN-SUFFIX,rtnewsru.com
@@ -62,9 +44,9 @@ DOMAIN-SUFFIX,rtenfrance.tv
 DOMAIN-SUFFIX,rtfrance.tv
 DOMAIN-SUFFIX,russieactuelle.fr
 DOMAIN-SUFFIX,de-rt.com
-DOMAIN-SUFFIX,rtde.me
+DOMAIN-SUFFIX,de-rt.org
 DOMAIN-SUFFIX,de-rtnews.com
-DOMAIN-SUFFIX,72.ru
+DOMAIN-SUFFIX,de-rtnews.net
 DOMAIN-SUFFIX,dert.online
 DOMAIN-SUFFIX,dert.site
 DOMAIN-SUFFIX,dert.tech
@@ -76,9 +58,9 @@ DOMAIN-SUFFIX,rtde.expert
 DOMAIN-SUFFIX,rtde.express
 DOMAIN-SUFFIX,rtde.info
 DOMAIN-SUFFIX,rtde.life
-DOMAIN-SUFFIX,de-rtnews.net
-DOMAIN-SUFFIX,amic.ru
-DOMAIN-SUFFIX,rteam.dev
+DOMAIN-SUFFIX,rtde.live
+DOMAIN-SUFFIX,rtde.me
+DOMAIN-SUFFIX,rtde.media
 DOMAIN-SUFFIX,rtde.online
 DOMAIN-SUFFIX,rtde.org
 DOMAIN-SUFFIX,rtde.press
@@ -117,7 +99,7 @@ DOMAIN-SUFFIX,esrt.website
 DOMAIN-SUFFIX,green-box-tv.com
 DOMAIN-SUFFIX,rttv.com
 DOMAIN-SUFFIX,rttv.ru
-DOMAIN-SUFFIX,rtde.media
+DOMAIN-SUFFIX,rteam.dev
 DOMAIN-SUFFIX,rteam.tech
 DOMAIN-SUFFIX,ktech.team
 DOMAIN-SUFFIX,shop-rt.com
@@ -149,4 +131,22 @@ DOMAIN-SUFFIX,rtfestival.ru
 DOMAIN-SUFFIX,rt-school.online
 DOMAIN-SUFFIX,ruptly.agency
 DOMAIN-SUFFIX,ruptly.tv
+DOMAIN-SUFFIX,ruptly.video
+DOMAIN-SUFFIX,1prime.ru
+DOMAIN-SUFFIX,rossiyasegodnya.com
+DOMAIN-SUFFIX,ria.ru
+DOMAIN-SUFFIX,jinrieluosi.cn
+DOMAIN-SUFFIX,arctic.ru
+DOMAIN-SUFFIX,baltnews.com
+DOMAIN-SUFFIX,baltnews.lt
+DOMAIN-SUFFIX,inosmi.ru
+DOMAIN-SUFFIX,ukraina.ru
+DOMAIN-SUFFIX,pressria.ru
+DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
+DOMAIN-SUFFIX,radiosputnik.ru
+DOMAIN-SUFFIX,sputnikglobe.com
+DOMAIN-SUFFIX,sputnikimages.com
+DOMAIN-SUFFIX,sputnikmediabank.com
+DOMAIN-SUFFIX,sputniknews.com
+DOMAIN-SUFFIX,tok.media
 DOMAIN-SUFFIX,gazetarussa.com.br
