@@ -2,12 +2,13 @@
 # Source: bratishkadrugoimamysynishka/geogaga-client-flavor/runetfreedom-russia-v2ray-rules-dat-geosite/CATEGORY-AI-RU.LST
 # Source branch: lists
 # Generated automatically.
-DOMAIN-SUFFIX,aiesa.ru
+DOMAIN-SUFFIX,polza.ai
 DOMAIN-SUFFIX,copymonkey.app
+DOMAIN-SUFFIX,devmachine.ai
 DOMAIN-SUFFIX,gerwin.io
 DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,gptunnel.ru
-DOMAIN-SUFFIX,polza.ai
+DOMAIN-SUFFIX,aiesa.ru
 DOMAIN-SUFFIX,robotext.io
 DOMAIN-SUFFIX,rugpt.io
 DOMAIN-SUFFIX,tokenator.top

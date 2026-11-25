@@ -16,15 +16,15 @@
     },
     "geogaga-client-flavor-geoip": {
       "files": 2,
-      "rules": 88784
+      "rules": 89124
     },
     "geogaga-client-flavor-geosite": {
       "files": 3,
-      "rules": 77663
+      "rules": 77931
     },
     "hydraponique-roscomvpn-geoip-geoip": {
       "files": 3,
-      "rules": 43437
+      "rules": 43752
     },
     "hydraponique-roscomvpn-geosite-geosite": {
       "files": 24,
@@ -32,19 +32,19 @@
     },
     "mansourjabin-cdn-ip-database-geoip": {
       "files": 22,
-      "rules": 14107
+      "rules": 14106
     },
     "runetfreedom-russia-v2ray-rules-dat-geoip": {
       "files": 266,
-      "rules": 1205508
+      "rules": 1205515
     },
     "runetfreedom-russia-v2ray-rules-dat-geosite": {
-      "files": 1567,
-      "rules": 3723827
+      "files": 1568,
+      "rules": 3733712
     }
   },
   "source_directories": 10,
-  "generated_files": 3768,
-  "nonempty_files": 3768,
-  "generated_rules": 6967465
+  "generated_files": 3769,
+  "nonempty_files": 3769,
+  "generated_rules": 6978279
 }
