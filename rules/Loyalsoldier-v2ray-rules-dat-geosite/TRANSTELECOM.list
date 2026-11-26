@@ -1,0 +1,12 @@
+# GeoGaGa -> Shadowrocket RULE-SET
+# Source: bratishkadrugoimamysynishka/geogaga-client-flavor/Loyalsoldier-v2ray-rules-dat-geosite/TRANSTELECOM.LST
+# Source branch: lists
+# Generated automatically.
+DOMAIN-SUFFIX,baikal-ttk.ru
+DOMAIN-SUFFIX,kttk.ru
+DOMAIN-SUFFIX,myttk.ru
+DOMAIN-SUFFIX,sakhttk.ru
+DOMAIN-SUFFIX,ttc-net.ru
+DOMAIN-SUFFIX,ttk.ru
+DOMAIN-SUFFIX,ttkdv.ru
+DOMAIN-SUFFIX,zsttk.net
