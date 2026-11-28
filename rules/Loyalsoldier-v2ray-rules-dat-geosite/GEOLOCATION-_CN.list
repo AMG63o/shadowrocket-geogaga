@@ -63,6 +63,7 @@ DOMAIN,asahishimbun.sc.omtrdc.net
 DOMAIN,assets.ppy.sh
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net
+DOMAIN,aurora-customization-usw2.lithium.com
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -850,8 +851,8 @@ DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,amazon
-DOMAIN-SUFFIX,jetbrains.team
-DOMAIN-SUFFIX,firewire.eu
+DOMAIN-SUFFIX,jetbrains.space
+DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
 DOMAIN-SUFFIX,12vpn.com
 DOMAIN-SUFFIX,12vpn.net
@@ -1844,6 +1845,7 @@ DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,aicu.cc
 DOMAIN-SUFFIX,zooredtube.com
 DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aimei133.com
@@ -7039,6 +7041,7 @@ DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,danke4china.net
+DOMAIN-SUFFIX,danmakus.com
 DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
 DOMAIN-SUFFIX,danskpornofilm.com
 DOMAIN-SUFFIX,dansmovies.com
@@ -9499,6 +9502,7 @@ DOMAIN-SUFFIX,fc2cn.com
 DOMAIN-SUFFIX,fc2ppv.tv
 DOMAIN-SUFFIX,fcacebook.com
 DOMAIN-SUFFIX,fcaebook.com
+DOMAIN-SUFFIX,fce.gg
 DOMAIN-SUFFIX,fcebook.com
 DOMAIN-SUFFIX,fcebookk.com
 DOMAIN-SUFFIX,fcfacebook.com
@@ -9720,7 +9724,7 @@ DOMAIN-SUFFIX,firestonetire.ca
 DOMAIN-SUFFIX,firestonetire.com
 DOMAIN-SUFFIX,firetweet.io
 DOMAIN-SUFFIX,firewire.cl
-DOMAIN-SUFFIX,jitouch.com
+DOMAIN-SUFFIX,firewire.eu
 DOMAIN-SUFFIX,firmaprofesional.com
 DOMAIN-SUFFIX,first-ns.de
 DOMAIN-SUFFIX,firstanalvideos.com
@@ -13596,7 +13600,7 @@ DOMAIN-SUFFIX,iphoneunlockimei.com
 DOMAIN-SUFFIX,iphonexs.tv
 DOMAIN-SUFFIX,iphonix.fr
 DOMAIN-SUFFIX,iphoto.eu
-DOMAIN-SUFFIX,iphoto.no
+DOMAIN-SUFFIX,jitouch.com
 DOMAIN-SUFFIX,iphoto.se
 DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,ipicture.ru
@@ -14032,8 +14036,8 @@ DOMAIN-SUFFIX,jetbrains.dev
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,jetbrains.org
 DOMAIN-SUFFIX,jetbrains.ru
-DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,000webhost.com
+DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,jetfuelapp.com
 DOMAIN-SUFFIX,jetfuelapps.com
 DOMAIN-SUFFIX,jex.com
@@ -14067,10 +14071,10 @@ DOMAIN-SUFFIX,jinrieluosi.cn
 DOMAIN-SUFFIX,jinrizhiyi.news
 DOMAIN-SUFFIX,jintian.net
 DOMAIN-SUFFIX,jinx.com
-DOMAIN-SUFFIX,jira-tcsbank.ru
-DOMAIN-SUFFIX,thebcomplex.com
+DOMAIN-SUFFIX,taiwantoday.tw
 DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
-DOMAIN-SUFFIX,nintendo.ru
+DOMAIN-SUFFIX,iphoto.no
+DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,jiuse.ai
 DOMAIN-SUFFIX,xbooru.com
 DOMAIN-SUFFIX,jiuse.icu
@@ -17651,7 +17655,7 @@ DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.nl
 DOMAIN-SUFFIX,nintendo.no
 DOMAIN-SUFFIX,nintendo.pt
-DOMAIN-SUFFIX,jitsi.org
+DOMAIN-SUFFIX,nintendo.ru
 DOMAIN-SUFFIX,nintendo.se
 DOMAIN-SUFFIX,nintendo.tw
 DOMAIN-SUFFIX,nintendo3ds.com
@@ -21759,7 +21763,7 @@ DOMAIN-SUFFIX,snowcorp.com
 DOMAIN-SUFFIX,snowmiku.com
 DOMAIN-SUFFIX,wargaming.net
 DOMAIN-SUFFIX,wargaming.com
-DOMAIN-SUFFIX,soasta-dswb.com
+DOMAIN-SUFFIX,jira.com
 DOMAIN-SUFFIX,sobees.com
 DOMAIN-SUFFIX,soc.mil
 DOMAIN-SUFFIX,socailcam.com
@@ -21979,6 +21983,7 @@ DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
 DOMAIN-SUFFIX,sp.cool
 DOMAIN-SUFFIX,spacebattles.com
+DOMAIN-SUFFIX,spacedesk.net
 DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,wainao.me
@@ -22676,7 +22681,7 @@ DOMAIN-SUFFIX,taiwanjustice.net
 DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,vrcdn.live
 DOMAIN-SUFFIX,taiwansex.tw
-DOMAIN-SUFFIX,taiwantoday.tw
+DOMAIN-SUFFIX,jira-tcsbank.ru
 DOMAIN-SUFFIX,vrcdn.cloud
 DOMAIN-SUFFIX,vrcams.io
 DOMAIN-SUFFIX,take2games.com
@@ -22940,7 +22945,7 @@ DOMAIN-SUFFIX,theav.xyz
 DOMAIN-SUFFIX,thebanker.com
 DOMAIN-SUFFIX,thebankerdatabase.com
 DOMAIN-SUFFIX,thebayuk.com
-DOMAIN-SUFFIX,jira.com
+DOMAIN-SUFFIX,thebcomplex.com
 DOMAIN-SUFFIX,thebeatsbydre.com
 DOMAIN-SUFFIX,thebeatsbydre.net
 DOMAIN-SUFFIX,thebeatsheadphonesale.com
